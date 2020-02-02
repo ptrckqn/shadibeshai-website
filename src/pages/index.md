@@ -1,0 +1,5 @@
+---
+template: indexPage
+---
+
+hello world

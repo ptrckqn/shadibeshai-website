@@ -1,0 +1,46 @@
+{
+  "name": "gatsby-starter-patrickquan",
+  "version": "1.0.0",
+  "description": "p",
+  "main": "gatsby-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "patrick quan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptrckqn/gatsby-starter-patrickquan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ptrckqn/gatsby-starter-patrickquan/issues"
+  },
+  "homepage": "https://github.com/ptrckqn/gatsby-starter-patrickquan#readme",
+  "dependencies": {
+    "gatsby": "^2.19.11",
+    "gatsby-image": "^2.2.40",
+    "gatsby-plugin-canonical-urls": "^2.1.20",
+    "gatsby-plugin-manifest": "^2.2.41",
+    "gatsby-plugin-offline": "^3.0.34",
+    "gatsby-plugin-react-helmet": "^3.1.22",
+    "gatsby-plugin-robots-txt": "^1.5.0",
+    "gatsby-plugin-sharp": "^2.4.5",
+    "gatsby-plugin-sitemap": "^2.2.27",
+    "gatsby-plugin-styled-components": "^3.1.19",
+    "gatsby-remark-images": "^3.1.44",
+    "gatsby-remark-relative-images": "^0.2.3",
+    "gatsby-source-filesystem": "^2.1.48",
+    "gatsby-transformer-remark": "^2.6.50",
+    "gatsby-transformer-sharp": "^2.3.14",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1",
+    "remark": "^11.0.2",
+    "styled-components": "^5.0.0"
+  },
+  "browserslist": [
+    ">1%",
+    "not dead",
+    "not IE 11"
+  ]
+}
