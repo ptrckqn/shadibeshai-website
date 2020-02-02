@@ -2,6 +2,8 @@ import React from 'react';
 import styled, { createGlobalStyle } from 'styled-components';
 import { Helmet } from 'react-helmet';
 
+import NavBar from './NavBar';
+
 const GlobalStyle = createGlobalStyle`
     *{
         margin: 0;
@@ -28,13 +30,16 @@ const GlobalStyle = createGlobalStyle`
     }
 
     h2{
-      font-size: 26px;
-      line-height: 34.5px;
+      font-size: 36px;
+      line-height: 44.5px;
+    }
+
+    h3{
+      font-size: 22px;
     }
 
     p, i, a{
-      font-size: 21px;
-      letter-spacing: -0.03px;
+      font-size: 18px;
       line-height: 1.58;
     }
 
@@ -58,11 +63,20 @@ const GlobalStyle = createGlobalStyle`
     }
 `;
 
-const Layout = ({ children }) => {
+const Main = styled.main`
+  margin-top: 140px;
+  padding-top: 60px;
+`;
+
+const Layout = ({ title, children }) => {
   return (
     <>
       <GlobalStyle />
-      {children}
+      <Helmet>
+        <title>Dr. Shadi Beshai - {title}</title>
+      </Helmet>
+      <NavBar />
+      <Main>{children}</Main>
     </>
   );
 };
