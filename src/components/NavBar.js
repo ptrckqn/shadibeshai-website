@@ -110,7 +110,7 @@ const NavBar = () => {
             <StyledLink to="/lab">Lab</StyledLink>
           </NavLink>
           <NavLink>
-            <StyledA href="#contact">Contact</StyledA>
+            <StyledA href="/#contact">Contact</StyledA>
           </NavLink>
         </NavLinks>
       </Container>

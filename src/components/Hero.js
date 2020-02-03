@@ -39,9 +39,7 @@ const Hero = ({ image }) => {
   return (
     <Container>
       <Content>
-        <Title>
-          Hey, I'm <br /> Dr. Shadi Beshai
-        </Title>
+        <Title>Dr. Shadi Beshai</Title>
         <Description>
           <Image fixed={image.childImageSharp.fixed} />
           <Subtitle>
