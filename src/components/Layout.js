@@ -3,6 +3,7 @@ import styled, { createGlobalStyle } from 'styled-components';
 import { Helmet } from 'react-helmet';
 
 import NavBar from './NavBar';
+import Footer from './Footer';
 
 const GlobalStyle = createGlobalStyle`
     *{
@@ -77,6 +78,7 @@ const Layout = ({ title, children }) => {
       </Helmet>
       <NavBar />
       <Main>{children}</Main>
+      <Footer />
     </>
   );
 };
