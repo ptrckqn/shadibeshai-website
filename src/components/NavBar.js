@@ -23,6 +23,9 @@ const Container = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  @media only screen and (max-width: 500px) {
+    padding: 0 15px;
+  }
 `;
 
 const Brand = styled.div`
@@ -57,8 +60,8 @@ const NavLink = styled.li`
   font-size: 18px;
   color: rgba(0, 0, 0, 0.4);
   transition: all 0.3s;
-  &:not(:last-child) {
-    margin-right: 25px;
+  &:not(:first-child) {
+    margin-left: 25px;
   }
   &::after {
     content: '';
@@ -75,6 +78,11 @@ const NavLink = styled.li`
     &::after {
       width: 100%;
       background-color: rgba(0, 0, 0, 1);
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    :nth-child(3) {
+      display: none;
     }
   }
 `;

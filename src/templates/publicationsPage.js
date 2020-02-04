@@ -11,10 +11,13 @@ const publicationsPage = ({ data }) => {
   return (
     <Layout title="Publications">
       <Section>
-        <h2>{title}</h2>
+        <h2>{journal.title}</h2>
         {journal.data.map(({ title, file }) => (
           <JournalFile url={file}>{title}</JournalFile>
         ))}
+      </Section>
+      <Section>
+        <h2>{conference.title}</h2>
         {conference.data.map(({ title, body }) => (
           <TextBlock title={title}>{body}</TextBlock>
         ))}
@@ -29,7 +32,6 @@ export const pageQuery = graphql`
   query publicationsQuery {
     markdownRemark(frontmatter: { template: { eq: "publicationsPage" } }) {
       frontmatter {
-        title
         journal {
           title
           data {

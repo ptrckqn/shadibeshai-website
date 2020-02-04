@@ -7,6 +7,9 @@ const Container = styled.div`
   max-width: 800px;
   margin: 0 auto;
   padding: 25px 0;
+  @media only screen and (max-width: 650px) {
+    flex-direction: column;
+  }
 `;
 
 const Form = styled.form`

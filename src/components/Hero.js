@@ -6,12 +6,18 @@ const Container = styled.div`
   max-width: 950px;
   margin: 0 auto;
   padding: 60px 30px;
+  @media only screen and (max-width: 500px) {
+    padding: 60px 15px;
+  }
 `;
 
 const Content = styled.div`
   display: grid;
   grid-template-columns: 1.5fr 1fr;
   align-items: center;
+  @media only screen and (max-width: 500px) {
+    grid-template-columns: 1fr;
+  }
 `;
 
 const Title = styled.h1``;

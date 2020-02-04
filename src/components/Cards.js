@@ -10,6 +10,9 @@ const Grid = styled.div`
   display: grid;
   grid-template-columns: ${props => (props.variant ? '1fr' : 'repeat(2, 1fr)')};
   grid-gap: 15px;
+  @media only screen and (max-width: 500px) {
+    grid-template-columns: 1fr;
+  }
 `;
 
 const Cards = ({ title, variant, children }) => {

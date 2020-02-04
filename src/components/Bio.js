@@ -9,6 +9,9 @@ const Container = styled.div`
   align-items: center;
   max-width: 750px;
   flex-direction: ${props => (props.variant ? 'row-reverse' : 'reverse')};
+  @media only screen and (max-width: 650px) {
+    flex-direction: column-reverse;
+  }
 `;
 
 const Details = styled.div`
@@ -19,12 +22,19 @@ const Details = styled.div`
   background: #fff;
   box-shadow: 1px 2px 18px rgba(0, 0, 0, 0.1);
   padding: 25px;
+  @media only screen and (max-width: 650px) {
+    transform: translateY(-50px);
+  }
 `;
 
 const Sub = styled.h4`
   font-style: italic;
   font-weight: 300;
   margin: 10px 0;
+`;
+
+const Image = styled(Img)`
+  width: 100%;
 `;
 
 const Bio = ({ title, sub, image, variant, children }) => {
@@ -35,7 +45,7 @@ const Bio = ({ title, sub, image, variant, children }) => {
         <Sub>{sub}</Sub>
         <p>{children}</p>
       </Details>
-      <Img fixed={image.childImageSharp.fixed} />
+      <Image fluid={image.childImageSharp.fluid} />
     </Container>
   );
 };
