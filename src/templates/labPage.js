@@ -40,7 +40,7 @@ export const pageQuery = graphql`
           image {
             childImageSharp {
               fluid(quality: 90) {
-                ...GatsbyImageSharpFluid_noBase64
+                ...GatsbyImageSharpFluid
               }
             }
           }

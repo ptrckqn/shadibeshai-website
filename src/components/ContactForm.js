@@ -95,16 +95,42 @@ const A = styled.a`
 `;
 
 const ContactForm = () => {
-  const [form, setForm] = useState({ name: '', email: '', body: '' });
+  const [form, setForm] = useState({
+    name: '',
+    email: '',
+    body: '',
+  });
 
   const handleChange = e => {
     setForm({ ...form, [e.target.name]: e.target.value });
   };
 
-  const handleSubmit = e => {
+  const handleSubmit = async e => {
     e.preventDefault();
-    console.log(form);
+    if (e.target.disabled) {
+      return;
+    }
+
+    e.target.disabled = true;
+    const res = await fetch(process.env.GATSBY_AWS_MAILER_API, {
+      method: 'POST',
+      headers: {
+        Accept: 'application/json',
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        ...form,
+        to: 'shadi.beshai@uregina.ca',
+        subject: 'You Received a Message from www.shadibeshai.ca',
+        debug: false,
+      }),
+    });
+
+    if (res.status === 200) {
+      setForm({ name: '', email: '', body: '' });
+    }
   };
+
   return (
     <Container>
       <Form onSubmit={handleSubmit}>
