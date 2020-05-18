@@ -3,10 +3,15 @@ import styled from 'styled-components';
 
 const Container = styled.a`
   display: block;
-  color: #000;
-  text-decoration: underline;
+  color: rgba(0, 0, 0, 0.5);
+  text-decoration: none;
   margin: 20px 0;
-  font-size: 22px;
+  font-size: 18px;
+  transition: all 0.3s;
+  &:hover {
+    color: #000;
+    text-decoration: underline;
+  }
 `;
 
 const JournalFile = ({ url, children }) => {

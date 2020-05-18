@@ -46,6 +46,7 @@ const Textarea = styled.textarea`
   display: block;
   margin: 10px 0;
   font-size: 18px;
+  font-family: inherit;
   padding: 15px 10px;
   width: 100%;
   border: none;
@@ -101,11 +102,11 @@ const ContactForm = () => {
     body: '',
   });
 
-  const handleChange = e => {
+  const handleChange = (e) => {
     setForm({ ...form, [e.target.name]: e.target.value });
   };
 
-  const handleSubmit = async e => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     if (e.target.disabled) {
       return;
