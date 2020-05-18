@@ -1,0 +1,129 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/uploads/
+public_folder: /uploads
+
+collections:
+  - name: pages
+    label: Main Pages
+    files:
+      - file: src/pages/index.md
+        label: Landing Page
+        name: index
+        fields:
+          - label: Template
+            name: template
+            widget: hidden
+            default: indexPage
+          - label: Bio Image
+            name: heroImage
+            widget: image
+          - label: About Me
+            name: about
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: data
+                name: Bio
+                widget: list
+                fields:
+                  - label: Title
+                    name: title
+                    widget: string
+                  - label: Body
+                    name: body
+                    widget: Text
+      - file: src/pages/lab.md
+        label: Lab Page
+        name: lab
+        fields:
+          - label: Template
+            name: template
+            widget: hidden
+            default: labPages
+          - label: Title
+            name: title
+            widget: string
+          - label: Bios
+            name: bio
+            widet: object
+            fields:
+              - label: Name
+                name: title
+                widget: string
+              - label: Position
+                name: sub
+                widget: string
+              - label: Image
+                name: image
+                widget: image
+              - label: Body
+                name: body
+                widget: text
+      - file: src/pages/publications.md
+        label: Publications Page
+        name: lab
+        fields:
+          - label: Template
+            name: template
+            widget: hidden
+            default: publicationsPage
+          - label: Journals Section
+            name: journal
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Journals
+                name: data
+                widget: list
+                fields:
+                  - label: Title
+                    name: title
+                    widget: string
+                  - label: File
+                    name: file
+                    widget: file
+          - label: Conference Section
+            name: conference
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Conferences
+                name: conference
+                widget: list
+                fields:
+                  - label: Title
+                    name: title
+                    widget: string
+                  - label: Body
+                    name: body
+                    widget: text
+      - file: src/pages/media.md
+        label: Media Page
+        name: lab
+        fields:
+          - label: Template
+            name: template
+            widget: hidden
+            default: mediaPage
+          - label: Title
+            name: title
+            widget: string
+          - label: Links
+            name: data
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Link
+                name: url
+                widget: string
