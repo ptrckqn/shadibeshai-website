@@ -119,7 +119,7 @@ collections:
             widget: string
           - label: Links
             name: data
-            widget: object
+            widget: list
             fields:
               - label: Title
                 name: title
