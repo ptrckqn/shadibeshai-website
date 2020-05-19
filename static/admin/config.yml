@@ -27,8 +27,8 @@ collections:
               - label: Title
                 name: title
                 widget: string
-              - label: data
-                name: Bio
+              - label: Bio
+                name: data
                 widget: list
                 fields:
                   - label: Title
@@ -36,7 +36,7 @@ collections:
                     widget: string
                   - label: Body
                     name: body
-                    widget: Text
+                    widget: text
       - file: src/pages/lab.md
         label: Lab Page
         name: lab
@@ -50,7 +50,7 @@ collections:
             widget: string
           - label: Bios
             name: bio
-            widet: object
+            widget: list
             fields:
               - label: Name
                 name: title
@@ -66,7 +66,7 @@ collections:
                 widget: text
       - file: src/pages/publications.md
         label: Publications Page
-        name: lab
+        name: publicaitions
         fields:
           - label: Template
             name: template
@@ -97,7 +97,7 @@ collections:
                 name: title
                 widget: string
               - label: Conferences
-                name: conference
+                name: data
                 widget: list
                 fields:
                   - label: Title
@@ -108,7 +108,7 @@ collections:
                     widget: text
       - file: src/pages/media.md
         label: Media Page
-        name: lab
+        name: media
         fields:
           - label: Template
             name: template
