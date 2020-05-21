@@ -104,7 +104,7 @@ journal:
         Effects of Dysphoria and Personality on Negative Self-Referent Attitudes
         and Perceptions of the Attitudes of Others. Journal of Psychology:
         Interdisciplinary and Applied. 149(5), 498-516.'
-      file: /
+      file: /uploads/Assessing-Competence-in-Collaborative-Case-Conceptualization-06.11.14.-Final. pdf
     - title:
         'Beshai, S., Prentice, J. L., Dobson, K. S., & Nicpon, K. (2014). Gender
         and Attention in Depression: Examining the Role of Modified Attention in
