@@ -11,6 +11,7 @@ const Title = styled.h2`
   position: relative;
   display: inline-block;
   margin-right: 10px;
+  max-width: 90%;
 `;
 
 const Arrow = styled.span`
