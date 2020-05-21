@@ -59,4 +59,16 @@ bio:
     image: /uploads/adam-iskric.jpg
     body: Now completing Graduate Training in Clinical Psychology at Hofstra
       University in New York.
+  - sub: Current Master’s Student
+    title: Nicole DelRosario
+    image: /uploads/nicole-delrosario.jpg
+    body: Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
+      Psychology. She is currently in her second year of the M.A. program in
+      Clinical Psychology at the University of Regina. Her Master's thesis
+      focuses on public perceptions of mindfulness-based programs, and whether
+      brief and specific psychoeducation may improve these perceptions. This
+      research is funded by a Joseph-Armand Bombardier Canada Graduate Master's
+      Scholarship. Additional research and clinical interests include exploring
+      barriers to mental health service use and group therapy. When not in the
+      lab, she enjoys roller skating and scrapbooking
 ---
