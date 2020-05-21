@@ -5,15 +5,18 @@ about:
   title: About me
   data:
     - title: General
-      body: "Dr. Shadi Beshai is an Assistant Professor of clinical psychology in the
-        Department of Psychology at the University of Regina. His current
-        research interests include the following: a) major depression (both
-        episodic and recurrent); b) adult Cognitive Behavioural Therapy; and c)
-        moderators (e.g., culture and diversity factors) and mediators (e.g.,
-        cognition) of outcome in evidence-based psychotherapy for adults. His
-        clinical interests fall within the areas of adult Cognitive Behavioural
-        Therapy, evidence-based transdiagnostic treatment for anxiety and
-        depression, and adult clinical assessment."
+      body: Dr. Shadi Beshai is an Associate Professor of Psychology at the University
+        of Regina, the Director of the Depression Cognition and CultureLab, and
+        a registered Doctoral Clinical Psychologist (in Saskatchewan). Dr.
+        Beshai’s research is focused on improving access to and promotion of
+        evidence-based psychological treatments for adult depression and
+        anxiety. Specifically, Dr. Beshai has published several peer-reviewed
+        scientific articles on the cultural adaptation of cognitive-behavioral
+        and mindfulness-based interventions. He has also published extensively
+        on improving public literacy about such interventions and ways to
+        disseminate them more widely. Dr. Beshai’s research is funded by the
+        Canadian Institute of Health Research (CIHR), and the SaskatchewanHealth
+        Research Foundation (SHRF).
     - title: Education
       body: Dr. Beshai received a Bachelor's of Arts, Honours (Suma Cum Laude) from
         York University, Toronto, Canada. He completed his Master's of Science
