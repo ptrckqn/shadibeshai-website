@@ -30,13 +30,6 @@ current:
         She is interested in mindfulness and stress reactions. Brooklyn hopes to
         complete her graduate work in Clinical Psychology after the completion
         of her B.A.
-    - title: Sarah Nykiforuk
-      sub: Honours Student
-      image: /uploads/sarah-nykiforuk.png
-      body: Sarah is an Honours student in her final year of study at the Psychology
-        Honours Program at the University of Regina. She has an interest in
-        self-compassion, mindfulness, and stress reactivity and recovery. Sarah
-        intends to pursue a Master's and a Doctorate in Clinical Psychology.
     - title: Christine Bueno
       sub: Current Master’s Student
       image: /uploads/christine-bueno.jpg
@@ -84,4 +77,12 @@ alumni:
         Honours Program at the University of Regina. She has an interest in
         self-compassion, mindfulness, and stress reactivity and recovery. Sarah
         intends to pursue a Master's and a Doctorate in Clinical Psychology.
+    - title: Brooklyn Hammond
+      sub: Honours Student
+      image: /uploads/brooklyn-hammond.png
+      body: Brooklyn is an Honours student (Sept 2017) in her final year of her
+        studies in the Honours Psychology Program at the University of Regina.
+        She is interested in mindfulness and stress reactions. Brooklyn hopes to
+        complete her graduate work in Clinical Psychology after the completion
+        of her B.A.
 ---
