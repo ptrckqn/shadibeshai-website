@@ -2,7 +2,7 @@
 template: labPage
 title: Lab - Depression, Cognition, & Culture
 current:
-  title: Current Students and Personnel and
+  title: Current Students and Personnel
   bio:
     - title: Dr. Shadi Beshai
       sub: Lab Director

@@ -48,22 +48,53 @@ collections:
           - label: Title
             name: title
             widget: string
-          - label: Bios
-            name: bio
-            widget: list
+          - label: Current Students and Personnel
+            name: current
+            widget: object
             fields:
-              - label: Name
+              - label: Title
                 name: title
                 widget: string
-              - label: Position
-                name: sub
+              - label: Bios
+                name: bio
+                widget: list
+                fields:
+                  - label: Name
+                    name: title
+                    widget: string
+                  - label: Position
+                    name: sub
+                    widget: string
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Body
+                    name: body
+                    widget: text
+          - label: Lab Alumi
+            name: alumni
+            widget: object
+            fields:
+              - label: Title
+                name: title
                 widget: string
-              - label: Image
-                name: image
-                widget: image
-              - label: Body
-                name: body
-                widget: text
+              - label: Bios
+                name: bio
+                widget: list
+                fields:
+                  - label: Name
+                    name: title
+                    widget: string
+                  - label: Position
+                    name: sub
+                    widget: string
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Body
+                    name: body
+                    widget: text
+
       - file: src/pages/publications.md
         label: Publications Page
         name: publicaitions
