@@ -42,4 +42,10 @@ bio:
       Psychology under Dr. Beshai’s supervision at the University of Regina.
       Currently, she is pursuing her PhD in Applied Social Psychology at the
       University of Guelph. "
+  - sub: "Former (Alumni) Master’s Student "
+    title: Amanda (Mandy) Wuth
+    image: /uploads/mandy-wuth.jpg
+    body: Her research expertise is in cognitive schemas, social cognitions, risk
+      attitudes, and life history theory. She is also interested in mindfulness
+      and workplace mental health.
 ---
