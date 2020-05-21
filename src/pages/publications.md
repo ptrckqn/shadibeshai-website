@@ -3,6 +3,12 @@ template: publicationsPage
 journal:
   title: Publications - Peer-Reviewed Journal Articles
   data:
+    - title: "Chahar Mahali, S., Beshai, S., Feeney, J.R. et al. Associations of
+        negative cognitions, emotional regulation, and depression symptoms
+        across four continents: International support for the cognitive model of
+        depression. BMC Psychiatry 20, 18 (2020).
+        https://doi.org/10.1186/s12888-019-2423-x"
+      file: /uploads/chahar-mahali-et-al.-2020-bmc.pdf
     - title: " Saghar Chahar Mahali, Shadi Beshai & Whitney L. Wolfe (2020): The
         associations of dispositional mindfulness, self-compassion, and
         reappraisal with symptoms of depression and anxiety among a sample of
@@ -130,12 +136,6 @@ journal:
         Relapse and Recurrence Prevention in Depression: Current Research and
         Future Prospects. Clinical Psychology Review, 31(8), 1349-1360."
       file: /uploads/Beshai-et-al-2011.pdf
-    - title: "Chahar Mahali, S., Beshai, S., Feeney, J.R. et al. Associations of
-        negative cognitions, emotional regulation, and depression symptoms
-        across four continents: International support for the cognitive model of
-        depression. BMC Psychiatry 20, 18 (2020).
-        https://doi.org/10.1186/s12888-019-2423-x"
-      file: /uploads/chahar-mahali-et-al.-2020-bmc.pdf
 conference:
   title: Publications - Peer-Reviewed Conference Presentations
   data:
