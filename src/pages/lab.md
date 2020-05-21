@@ -48,4 +48,10 @@ bio:
     body: Her research expertise is in cognitive schemas, social cognitions, risk
       attitudes, and life history theory. She is also interested in mindfulness
       and workplace mental health.
+  - title: Christine Bueno
+    sub: Current Master’s Student
+    image: /uploads/christine-bueno.jpg
+    body: "Christine is a Master’s student in the Clinical Psychology Program,
+      supervised by Dr. Shadi Beshai. Her Master’s thesis will look at an online
+      mindfulness and self-compassion intervention to increase connectedness. "
 ---
