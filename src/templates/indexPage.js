@@ -37,7 +37,7 @@ const indexPage = ({ data }) => {
             if (i > 3) return null;
             return (
               <a
-                href={file}
+                href={`/uploads/${file.relativePath}`}
                 target="__blank"
                 style={{ textDecoration: 'none' }}
                 key={title}
@@ -61,7 +61,9 @@ const indexPage = ({ data }) => {
       </Section>
       <Section>
         <LinkedHeader url="/lab">{lab.title}</LinkedHeader>
-        <TextBlock title={lab.bio[0].title}>{lab.bio[0].body}</TextBlock>
+        <TextBlock title={lab.current.bio[0].title}>
+          {lab.current.bio[0].body}
+        </TextBlock>
       </Section>
       <Section>
         <h2>{media.title}</h2>
@@ -120,7 +122,9 @@ export const pageQuery = graphql`
           title
           data {
             title
-            file
+            file {
+              relativePath
+            }
           }
         }
         conference {
@@ -136,17 +140,19 @@ export const pageQuery = graphql`
     lab: markdownRemark(frontmatter: { template: { eq: "labPage" } }) {
       frontmatter {
         title
-        bio {
-          title
-          sub
-          image {
-            childImageSharp {
-              fluid(quality: 90) {
-                ...GatsbyImageSharpFluid
+        current {
+          bio {
+            title
+            sub
+            image {
+              childImageSharp {
+                fluid(quality: 90) {
+                  ...GatsbyImageSharpFluid
+                }
               }
             }
+            body
           }
-          body
         }
       }
     }

@@ -13,7 +13,9 @@ const publicationsPage = ({ data }) => {
       <Section>
         <h2>{journal.title}</h2>
         {journal.data.map(({ title, file }) => (
-          <JournalFile url={file}>{title}</JournalFile>
+          <JournalFile url={`/uploalds/${file.relativePath}`}>
+            {title}
+          </JournalFile>
         ))}
       </Section>
       <Section>
@@ -36,7 +38,9 @@ export const pageQuery = graphql`
           title
           data {
             title
-            file
+            file {
+              relativePath
+            }
           }
         }
         conference {
