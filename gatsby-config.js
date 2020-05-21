@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'title', //Change this
-    siteUrl: 'https://example.com', //Change this
-    description: 'description', //Change this
+    title: 'Dr. Shadi Beshai', //Change this
+    siteUrl: 'https://shadibeshai.ca', //Change this
+    description:
+      'Dr. Shadi Beshai - Associate Professor of Clinical Psychology at The University of Regina', //Change this
   },
   plugins: [
     {
@@ -45,7 +46,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://example.com`, //Change this
+        siteUrl: `https://shadibeshai.ca`, //Change this
         stripQueryString: true,
       },
     },
@@ -58,8 +59,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `name`, //Change this
-        short_name: `short_name`, //Change this
+        name: `Shadi Beshai`, //Change this
+        short_name: `Dr. Beshai`, //Change this
         start_url: `/`, //Change this
         background_color: `#ffffff`, //Change this
         theme_color: `#202020`, //Change this
