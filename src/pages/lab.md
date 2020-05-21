@@ -54,4 +54,9 @@ bio:
     body: "Christine is a Master’s student in the Clinical Psychology Program,
       supervised by Dr. Shadi Beshai. Her Master’s thesis will look at an online
       mindfulness and self-compassion intervention to increase connectedness. "
+  - sub: Former (Alumni) Master’s Student
+    title: Adam Iskric
+    image: /uploads/adam-iskric.jpg
+    body: Now completing Graduate Training in Clinical Psychology at Hofstra
+      University in New York.
 ---
