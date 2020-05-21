@@ -77,4 +77,11 @@ alumni:
         Master's Scholarship. Additional research and clinical interests include
         exploring barriers to mental health service use and group therapy. When
         not in the lab, she enjoys roller skating and scrapbooking
+    - title: Sarah Nykiforuk
+      sub: Honours Student
+      image: /uploads/sarah-nykiforuk.png
+      body: Sarah is an Honours student in her final year of study at the Psychology
+        Honours Program at the University of Regina. She has an interest in
+        self-compassion, mindfulness, and stress reactivity and recovery. Sarah
+        intends to pursue a Master's and a Doctorate in Clinical Psychology.
 ---
