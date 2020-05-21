@@ -81,7 +81,7 @@ journal:
         Cross-Cultural Study of the Cognitive Model of Depression: Cognitive
         Experiences Converge between Egypt and Canada. PloS one, 11(3),
         e0150699'
-      file: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150699
+      file: /uploads/journal.pone.0150699.pdf
     - title:
         'Beshai, S., Wallace, L., McDougall, K., Waldmann, K., & Stea, J. N.
         (2016). Reduced Contact Cognitive-Behavioral Interventions for Adult
@@ -104,7 +104,7 @@ journal:
         Effects of Dysphoria and Personality on Negative Self-Referent Attitudes
         and Perceptions of the Attitudes of Others. Journal of Psychology:
         Interdisciplinary and Applied. 149(5), 498-516.'
-      file: /uploads/Assessing-Competence-in-Collaborative-Case-Conceptualization-06.11.14.-Final. pdf
+      file: /uploads/dummy.pdf
     - title:
         'Beshai, S., Prentice, J. L., Dobson, K. S., & Nicpon, K. (2014). Gender
         and Attention in Depression: Examining the Role of Modified Attention in
