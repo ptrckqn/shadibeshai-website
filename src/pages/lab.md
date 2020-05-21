@@ -22,14 +22,6 @@ current:
         University of Regina, supervised by Dr. Shadi Beshai. Her Master's
         thesis will focus on recurrent depression, and factors that may increase
         relapse and recurrence rates in depression.
-    - title: Brooklyn Hammond
-      sub: Honours Student
-      image: /uploads/brooklyn-hammond.png
-      body: Brooklyn is an Honours student (Sept 2017) in her final year of her
-        studies in the Honours Psychology Program at the University of Regina.
-        She is interested in mindfulness and stress reactions. Brooklyn hopes to
-        complete her graduate work in Clinical Psychology after the completion
-        of her B.A.
     - title: Christine Bueno
       sub: Current Master’s Student
       image: /uploads/christine-bueno.jpg
