@@ -8,8 +8,7 @@ current:
     - title: Dr. Shadi Beshai
       sub: Lab Director
       image: /uploads/shadi-beshai.png
-      body:
-        "Dr. Shadi Beshai is an Associate Professor in Clinical Psychology at the
+      body: "Dr. Shadi Beshai is an Associate Professor in Clinical Psychology at the
         University of Regina. Research in the DCC Lab, as directed by Dr.
         Beshai, is aimed at the local and international promotion and adaptation
         of evidence-based psychotherapies (e.g., CBT and Mindfulness-Based
@@ -29,14 +28,12 @@ current:
     - title: Christine Bueno
       sub: Current Master’s Student
       image: /uploads/christine-bueno.jpg
-      body:
-        'Christine is a Master’s student in the Clinical Psychology Program. Her
+      body: "Christine is a Master’s student in the Clinical Psychology Program. Her
         Master’s thesis will look at an online mindfulness and self-compassion
-        intervention to increase connectedness. '
+        intervention to increase connectedness. "
     - title: Nicole Del Rosario
       sub: Master's Student
-      body:
-        Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
+      body: Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
         Psychology. She is currently in her second year of the M.A. program in
         Clinical Psychology at the University of Regina. Her Master's thesis
         focuses on public perceptions of mindfulness-based programs, and whether
@@ -50,17 +47,16 @@ alumni:
   title: Lab Alumni
   bio:
     - image: /uploads/saghar-helia-.jpg
-      title: Ms. Saghar Chahar Mahali
+      title: Saghar Chahar Mahali
       sub: Former (Alumni) Master’s Student
-      body: 'Saghar (Helia) finished her MA degree in Experimental and Applied
+      body: "Saghar (Helia) finished her MA degree in Experimental and Applied
         Psychology under Dr. Beshai’s supervision at the University of Regina.
         Currently, she is pursuing her PhD in Applied Social Psychology at the
-        University of Guelph. '
-    - sub: 'Former (Alumni) Master’s Student '
+        University of Guelph. "
+    - sub: "Former (Alumni) Master’s Student "
       title: Amanda (Mandy) Wuth
       image: /uploads/mandy-wuth.jpg
-      body:
-        Her research expertise is in cognitive schemas, social cognitions, risk
+      body: Her research expertise is in cognitive schemas, social cognitions, risk
         attitudes, and life history theory. She is also interested in
         mindfulness and workplace mental health.
     - sub: Former (Alumni) Master’s Student
@@ -71,8 +67,7 @@ alumni:
     - title: Sarah Nykiforuk
       sub: Honours Student
       image: /uploads/sarah-nykiforuk.png
-      body:
-        Sarah is an Honours student in her final year of study at the Psychology
+      body: Sarah is an Honours student in her final year of study at the Psychology
         Honours Program at the University of Regina. She has an interest in
         self-compassion, mindfulness, and stress reactivity and recovery. Sarah
         intends to pursue a Master's and a Doctorate in Clinical Psychology.
