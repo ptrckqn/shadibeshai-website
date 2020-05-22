@@ -7,7 +7,7 @@ current:
   bio:
     - title: Dr. Shadi Beshai
       sub: Lab Director
-      image: /uploads/20-067-034-new.jpg
+      image: /uploads/dr.-beshai-new.jpg
       body: "Dr. Shadi Beshai is an Associate Professor in Clinical Psychology at the
         University of Regina. Research in the DCC Lab, as directed by Dr.
         Beshai, is aimed at the local and international promotion and adaptation
