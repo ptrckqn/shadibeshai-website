@@ -18,17 +18,16 @@ current:
     - title: Mabel Yu
       sub: Graduate Student
       image: /uploads/mabel-yu.png
-      body: Mabel  is a Master's student in the Program of Clinical Psychology,
-        University of Regina, supervised by Dr. Shadi Beshai. Her Master's
-        thesis will focus on recurrent depression, and factors that may increase
-        relapse and recurrence rates in depression.
+      body: Mabel  is a Doctoral student in the Clinical Psychology Program,
+        University of Regina. Mabel's Doctoral Thesis is focused on a randomized
+        trial examining the effects of a self-compassion intervention to protect
+        from future depression episodes among people with recurrent depression.
     - title: Christine Bueno
       sub: Current Master’s Student
       image: /uploads/christine-bueno.jpg
-      body: "Christine is a Master’s student in the Clinical Psychology Program,
-        supervised by Dr. Shadi Beshai. Her Master’s thesis will look at an
-        online mindfulness and self-compassion intervention to increase
-        connectedness. "
+      body: "Christine is a Master’s student in the Clinical Psychology Program. Her
+        Master’s thesis will look at an online mindfulness and self-compassion
+        intervention to increase connectedness. "
     - title: Nicole Del Rosario
       sub: Master's Student
       body: Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
@@ -72,9 +71,9 @@ alumni:
     - title: Brooklyn Hammond
       sub: Honours Student
       image: /uploads/brooklyn-hammond.png
-      body: Brooklyn is an Honours student (Sept 2017) in her final year of her
-        studies in the Honours Psychology Program at the University of Regina.
-        She is interested in mindfulness and stress reactions. Brooklyn hopes to
-        complete her graduate work in Clinical Psychology after the completion
-        of her B.A.
+      body: Brooklyn graduated with a BA in Honours Psychology in 2018 and is
+        currently working as a Job Coach for Ranch Ehrlo. She is enrolled in the
+        UofR’s Masters in Educational Psychology Program. Upon completing her
+        studies, she hopes to be a registered psychologist with the Saskatchewan
+        College of Psychologists
 ---
