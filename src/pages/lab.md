@@ -8,18 +8,8 @@ current:
     - title: Dr. Shadi Beshai
       sub: Lab Director
       image: /uploads/shadi-beshai.png
-<<<<<<< HEAD
       body:
-        Dr. Shadi Beshai is an Assistant Professor at the University of Regina. He
-        is the recipient of many research awards from national and provincial
-        grants (e.g., the Social Sciences and Humanities Research Council of
-        Canada; Canadian Institute of Health Research; Alberta Innovates Health
-        Solutions). Dr. Beshai has published in many highly esteemed,
-        peer-reviewed journals (e.g., Clinical Psychology Review; Mindfulness;
-        Behavior Therapy). His interests are in Major Depressive Disorder and
-        Adult Cognitive Behavioural Therapy and Mindfulness Training.
-=======
-      body: "Dr. Shadi Beshai is an Associate Professor in Clinical Psychology at the
+        "Dr. Shadi Beshai is an Associate Professor in Clinical Psychology at the
         University of Regina. Research in the DCC Lab, as directed by Dr.
         Beshai, is aimed at the local and international promotion and adaptation
         of evidence-based psychotherapies (e.g., CBT and Mindfulness-Based
@@ -29,7 +19,6 @@ current:
         below) has been published in many highly esteemed, peer-reviewed
         journals (e.g., Clinical Psychology Review; Mindfulness; Behavior
         Therapy). "
->>>>>>> bf05d862da351e6d8fe7eca4ab94b98b8575f96e
     - title: Mabel Yu
       sub: Graduate Student
       image: /uploads/mabel-yu.png
@@ -40,18 +29,14 @@ current:
     - title: Christine Bueno
       sub: Current Master’s Student
       image: /uploads/christine-bueno.jpg
-<<<<<<< HEAD
-      body: 'Christine is a Master’s student in the Clinical Psychology Program,
-        supervised by Dr. Shadi Beshai. Her Master’s thesis will look at an
-        online mindfulness and self-compassion intervention to increase
-        connectedness. '
-=======
-      body: "Christine is a Master’s student in the Clinical Psychology Program. Her
+      body:
+        'Christine is a Master’s student in the Clinical Psychology Program. Her
         Master’s thesis will look at an online mindfulness and self-compassion
-        intervention to increase connectedness. "
+        intervention to increase connectedness. '
     - title: Nicole Del Rosario
       sub: Master's Student
-      body: Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
+      body:
+        Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
         Psychology. She is currently in her second year of the M.A. program in
         Clinical Psychology at the University of Regina. Her Master's thesis
         focuses on public perceptions of mindfulness-based programs, and whether
@@ -61,7 +46,6 @@ current:
         exploring barriers to mental health service use and group therapy. When
         not in the lab, she enjoys roller skating and scrapbooking
       image: /uploads/nicole-delrosario.jpg
->>>>>>> bf05d862da351e6d8fe7eca4ab94b98b8575f96e
 alumni:
   title: Lab Alumni
   bio:
@@ -84,22 +68,6 @@ alumni:
       image: /uploads/adam-iskric.jpg
       body: Now completing Graduate Training in Clinical Psychology at Hofstra
         University in New York.
-<<<<<<< HEAD
-    - title: Nicole DelRosario
-      sub: Current Master’s Student
-      image: /uploads/nicole-delrosario.jpg
-      body:
-        Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
-        Psychology. She is currently in her second year of the M.A. program in
-        Clinical Psychology at the University of Regina. Her Master's thesis
-        focuses on public perceptions of mindfulness-based programs, and whether
-        brief and specific psychoeducation may improve these perceptions. This
-        research is funded by a Joseph-Armand Bombardier Canada Graduate
-        Master's Scholarship. Additional research and clinical interests include
-        exploring barriers to mental health service use and group therapy. When
-        not in the lab, she enjoys roller skating and scrapbooking
-=======
->>>>>>> bf05d862da351e6d8fe7eca4ab94b98b8575f96e
     - title: Sarah Nykiforuk
       sub: Honours Student
       image: /uploads/sarah-nykiforuk.png
