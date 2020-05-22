@@ -67,10 +67,13 @@ alumni:
     - title: Sarah Bjornson
       sub: Former Honours Student
       image: /uploads/untitled-3-.jpg
-      body: Sarah graduated with a B.A. Honours in Psychology, University of
-        Regina.  She has an interest in self-compassion, mindfulness, and stress
-        reactivity and recovery. Sarah intends to pursue a Master's and a
-        Doctorate in Clinical Psychology.
+      body: "I completed my honours thesis under Dr. Beshai’s supervision on the
+        relationship between dispositional self-compassion and physiological
+        responses to stress. My interests have shifted since completing
+        undergraduate studies; I am currently working as a Behaviour Technician
+        with children who have Autism Spectrum Disorder (ASD). I plan to
+        complete graduate studies in Clinical Developmental Psychology with a
+        focus on ASD. "
     - title: Brooklyn Hammond
       sub: Former Honours Student
       image: /uploads/brooklyn-hammond.png
