@@ -8,6 +8,7 @@ current:
     - title: Dr. Shadi Beshai
       sub: Lab Director
       image: /uploads/shadi-beshai.png
+<<<<<<< HEAD
       body:
         Dr. Shadi Beshai is an Assistant Professor at the University of Regina. He
         is the recipient of many research awards from national and provincial
@@ -17,20 +18,50 @@ current:
         peer-reviewed journals (e.g., Clinical Psychology Review; Mindfulness;
         Behavior Therapy). His interests are in Major Depressive Disorder and
         Adult Cognitive Behavioural Therapy and Mindfulness Training.
+=======
+      body: "Dr. Shadi Beshai is an Associate Professor in Clinical Psychology at the
+        University of Regina. Research in the DCC Lab, as directed by Dr.
+        Beshai, is aimed at the local and international promotion and adaptation
+        of evidence-based psychotherapies (e.g., CBT and Mindfulness-Based
+        Interventions).  Dr. Beshai's research is funded by Canadian Institute
+        of Health Research (CIHR), Saskatchewan Health Research Foundation
+        (SHRF). Research by Dr. Beshai and other gifted DCC Lab members (see
+        below) has been published in many highly esteemed, peer-reviewed
+        journals (e.g., Clinical Psychology Review; Mindfulness; Behavior
+        Therapy). "
+>>>>>>> bf05d862da351e6d8fe7eca4ab94b98b8575f96e
     - title: Mabel Yu
       sub: Graduate Student
       image: /uploads/mabel-yu.png
-      body: Mabel  is a Master's student in the Program of Clinical Psychology,
-        University of Regina, supervised by Dr. Shadi Beshai. Her Master's
-        thesis will focus on recurrent depression, and factors that may increase
-        relapse and recurrence rates in depression.
+      body: Mabel  is a Doctoral student in the Clinical Psychology Program,
+        University of Regina. Mabel's Doctoral Thesis is focused on a randomized
+        trial examining the effects of a self-compassion intervention to protect
+        from future depression episodes among people with recurrent depression.
     - title: Christine Bueno
       sub: Current Master’s Student
       image: /uploads/christine-bueno.jpg
+<<<<<<< HEAD
       body: 'Christine is a Master’s student in the Clinical Psychology Program,
         supervised by Dr. Shadi Beshai. Her Master’s thesis will look at an
         online mindfulness and self-compassion intervention to increase
         connectedness. '
+=======
+      body: "Christine is a Master’s student in the Clinical Psychology Program. Her
+        Master’s thesis will look at an online mindfulness and self-compassion
+        intervention to increase connectedness. "
+    - title: Nicole Del Rosario
+      sub: Master's Student
+      body: Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
+        Psychology. She is currently in her second year of the M.A. program in
+        Clinical Psychology at the University of Regina. Her Master's thesis
+        focuses on public perceptions of mindfulness-based programs, and whether
+        brief and specific psychoeducation may improve these perceptions. This
+        research is funded by a Joseph-Armand Bombardier Canada Graduate
+        Master's Scholarship. Additional research and clinical interests include
+        exploring barriers to mental health service use and group therapy. When
+        not in the lab, she enjoys roller skating and scrapbooking
+      image: /uploads/nicole-delrosario.jpg
+>>>>>>> bf05d862da351e6d8fe7eca4ab94b98b8575f96e
 alumni:
   title: Lab Alumni
   bio:
@@ -53,6 +84,7 @@ alumni:
       image: /uploads/adam-iskric.jpg
       body: Now completing Graduate Training in Clinical Psychology at Hofstra
         University in New York.
+<<<<<<< HEAD
     - title: Nicole DelRosario
       sub: Current Master’s Student
       image: /uploads/nicole-delrosario.jpg
@@ -66,6 +98,8 @@ alumni:
         Master's Scholarship. Additional research and clinical interests include
         exploring barriers to mental health service use and group therapy. When
         not in the lab, she enjoys roller skating and scrapbooking
+=======
+>>>>>>> bf05d862da351e6d8fe7eca4ab94b98b8575f96e
     - title: Sarah Nykiforuk
       sub: Honours Student
       image: /uploads/sarah-nykiforuk.png
@@ -77,9 +111,9 @@ alumni:
     - title: Brooklyn Hammond
       sub: Honours Student
       image: /uploads/brooklyn-hammond.png
-      body: Brooklyn is an Honours student (Sept 2017) in her final year of her
-        studies in the Honours Psychology Program at the University of Regina.
-        She is interested in mindfulness and stress reactions. Brooklyn hopes to
-        complete her graduate work in Clinical Psychology after the completion
-        of her B.A.
+      body: Brooklyn graduated with a BA in Honours Psychology in 2018 and is
+        currently working as a Job Coach for Ranch Ehrlo. She is enrolled in the
+        UofR’s Masters in Educational Psychology Program. Upon completing her
+        studies, she hopes to be a registered psychologist with the Saskatchewan
+        College of Psychologists
 ---
