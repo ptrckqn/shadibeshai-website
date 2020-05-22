@@ -19,20 +19,20 @@ current:
         journals (e.g., Clinical Psychology Review; Mindfulness; Behavior
         Therapy). "
     - title: Mabel Yu
-      sub: Graduate Student
+      sub: Doctoral Student (Clinical Psychology)
       image: /uploads/mabel-yu.png
       body: Mabel  is a Doctoral student in the Clinical Psychology Program,
         University of Regina. Mabel's Doctoral Thesis is focused on a randomized
         trial examining the effects of a self-compassion intervention to protect
         from future depression episodes among people with recurrent depression.
     - title: Christine Bueno
-      sub: Current Master’s Student
+      sub: Master’s Student (Clinical Psychology)
       image: /uploads/christine-bueno.jpg
       body: "Christine is a Master’s student in the Clinical Psychology Program. Her
         Master’s thesis will look at an online mindfulness and self-compassion
         intervention to increase connectedness. "
     - title: Nicole Del Rosario
-      sub: Master's Student
+      sub: Master's Student (Clinical Psychology)
       body: Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
         Psychology. She is currently in her second year of the M.A. program in
         Clinical Psychology at the University of Regina. Her Master's thesis
@@ -48,31 +48,31 @@ alumni:
   bio:
     - image: /uploads/saghar-helia-.jpg
       title: Saghar Chahar Mahali
-      sub: Former (Alumni) Master’s Student
+      sub: Former Master’s Student (Applied and Experimental Psychology)
       body: "Saghar (Helia) finished her MA degree in Experimental and Applied
         Psychology under Dr. Beshai’s supervision at the University of Regina.
         Currently, she is pursuing her PhD in Applied Social Psychology at the
         University of Guelph. "
-    - sub: "Former (Alumni) Master’s Student "
+    - sub: Former Master’s Student (Applied and Experimental Psychology)
       title: Amanda (Mandy) Wuth
       image: /uploads/mandy-wuth.jpg
       body: Her research expertise is in cognitive schemas, social cognitions, risk
         attitudes, and life history theory. She is also interested in
         mindfulness and workplace mental health.
-    - sub: Former (Alumni) Master’s Student
+    - sub: Former Master’s Student (Clinical Psychology)
       title: Adam Iskric
       image: /uploads/adam-iskric.jpg
       body: Now completing Graduate Training in Clinical Psychology at Hofstra
         University in New York.
-    - title: Sarah Nykiforuk
-      sub: Honours Student
-      image: /uploads/sarah-nykiforuk.png
-      body: Sarah is an Honours student in her final year of study at the Psychology
-        Honours Program at the University of Regina. She has an interest in
-        self-compassion, mindfulness, and stress reactivity and recovery. Sarah
-        intends to pursue a Master's and a Doctorate in Clinical Psychology.
+    - title: Sarah Bjornson
+      sub: Former Honours Student
+      image: /uploads/untitled-3-.jpg
+      body: Sarah graduated with a B.A. Honours in Psychology, University of
+        Regina.  She has an interest in self-compassion, mindfulness, and stress
+        reactivity and recovery. Sarah intends to pursue a Master's and a
+        Doctorate in Clinical Psychology.
     - title: Brooklyn Hammond
-      sub: Honours Student
+      sub: Former Honours Student
       image: /uploads/brooklyn-hammond.png
       body: Brooklyn graduated with a BA in Honours Psychology in 2018 and is
         currently working as a Job Coach for Ranch Ehrlo. She is enrolled in the
