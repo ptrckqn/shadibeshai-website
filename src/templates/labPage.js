@@ -1,15 +1,28 @@
 import React from 'react';
+import styled from 'styled-components';
 import { graphql } from 'gatsby';
+import Img from 'gatsby-image';
 
 import Layout from '../components/Layout';
 import Section from '../components/Section';
 import Bio from '../components/Bio';
 
+const ImageWrapper = styled.div`
+  text-align: center;
+  height: 250px;
+`;
+const Image = styled(Img)`
+  height: 100%;
+`;
+
 const labPage = ({ data }) => {
-  const { title, current, alumni } = data.markdownRemark.frontmatter;
+  const { title, image, current, alumni } = data.markdownRemark.frontmatter;
   return (
     <Layout title="Lab">
       <Section>
+        <ImageWrapper>
+          <Image fixed={image.childImageSharp.fixed} />
+        </ImageWrapper>
         <h2>{title}</h2>
       </Section>
       <Section>
@@ -53,6 +66,13 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { template: { eq: "labPage" } }) {
       frontmatter {
         title
+        image {
+          childImageSharp {
+            fixed(quality: 90, height: 250) {
+              ...GatsbyImageSharpFixed
+            }
+          }
+        }
         current {
           title
           bio {

@@ -48,6 +48,9 @@ collections:
           - label: Title
             name: title
             widget: string
+          - label: Image
+            name: image
+            widget: image
           - label: Current Students and Personnel
             name: current
             widget: object

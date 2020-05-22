@@ -1,13 +1,15 @@
 ---
 template: labPage
 title: Lab - Depression, Cognition, & Culture
+image: /uploads/DCCLogo.png
 current:
   title: Current Students and Personnel
   bio:
     - title: Dr. Shadi Beshai
       sub: Lab Director
       image: /uploads/shadi-beshai.png
-      body: Dr. Shadi Beshai is an Assistant Professor at the University of Regina. He
+      body:
+        Dr. Shadi Beshai is an Assistant Professor at the University of Regina. He
         is the recipient of many research awards from national and provincial
         grants (e.g., the Social Sciences and Humanities Research Council of
         Canada; Canadian Institute of Health Research; Alberta Innovates Health
@@ -25,24 +27,25 @@ current:
     - title: Christine Bueno
       sub: Current Master’s Student
       image: /uploads/christine-bueno.jpg
-      body: "Christine is a Master’s student in the Clinical Psychology Program,
+      body: 'Christine is a Master’s student in the Clinical Psychology Program,
         supervised by Dr. Shadi Beshai. Her Master’s thesis will look at an
         online mindfulness and self-compassion intervention to increase
-        connectedness. "
+        connectedness. '
 alumni:
   title: Lab Alumni
   bio:
     - image: /uploads/saghar-helia-.jpg
       title: Ms. Saghar Chahar Mahali
       sub: Former (Alumni) Master’s Student
-      body: "Saghar (Helia) finished her MA degree in Experimental and Applied
+      body: 'Saghar (Helia) finished her MA degree in Experimental and Applied
         Psychology under Dr. Beshai’s supervision at the University of Regina.
         Currently, she is pursuing her PhD in Applied Social Psychology at the
-        University of Guelph. "
-    - sub: "Former (Alumni) Master’s Student "
+        University of Guelph. '
+    - sub: 'Former (Alumni) Master’s Student '
       title: Amanda (Mandy) Wuth
       image: /uploads/mandy-wuth.jpg
-      body: Her research expertise is in cognitive schemas, social cognitions, risk
+      body:
+        Her research expertise is in cognitive schemas, social cognitions, risk
         attitudes, and life history theory. She is also interested in
         mindfulness and workplace mental health.
     - sub: Former (Alumni) Master’s Student
@@ -53,7 +56,8 @@ alumni:
     - title: Nicole DelRosario
       sub: Current Master’s Student
       image: /uploads/nicole-delrosario.jpg
-      body: Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
+      body:
+        Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
         Psychology. She is currently in her second year of the M.A. program in
         Clinical Psychology at the University of Regina. Her Master's thesis
         focuses on public perceptions of mindfulness-based programs, and whether
@@ -65,7 +69,8 @@ alumni:
     - title: Sarah Nykiforuk
       sub: Honours Student
       image: /uploads/sarah-nykiforuk.png
-      body: Sarah is an Honours student in her final year of study at the Psychology
+      body:
+        Sarah is an Honours student in her final year of study at the Psychology
         Honours Program at the University of Regina. She has an interest in
         self-compassion, mindfulness, and stress reactivity and recovery. Sarah
         intends to pursue a Master's and a Doctorate in Clinical Psychology.
