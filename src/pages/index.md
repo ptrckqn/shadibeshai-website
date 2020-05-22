@@ -6,7 +6,7 @@ about:
   data:
     - title: General
       body: Dr. Shadi Beshai is an Associate Professor of Psychology at the University
-        of Regina, the Director of the Depression Cognition and CultureLab, and
+        of Regina, the Director of the Depression Cognition and Culture Lab, and
         a registered Doctoral Clinical Psychologist (in Saskatchewan). Dr.
         Beshai’s research is focused on improving access to and promotion of
         evidence-based psychological treatments for adult depression and
