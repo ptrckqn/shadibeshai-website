@@ -46,6 +46,13 @@ current:
 alumni:
   title: Lab Alumni
   bio:
+    - title: S. Yasmin Manjegani
+      sub: Former Honours Studnet
+      image: /uploads/screen-shot-2020-05-22-at-9.03.35-am.png
+      body: Yasmin finished her B.Sc (Honours) in Psychology under the supervision of
+        Dr. Beshai. Her thesis examined social and cognitive predictors of
+        cognitive restructuring (CR) in relation to Cognitive Behavioural
+        Therapy (CBT). She is interested in pursuing a career in medicine.
     - image: /uploads/saghar-helia-.jpg
       title: Saghar Chahar Mahali
       sub: Former Master’s Student (Applied and Experimental Psychology)
