@@ -47,7 +47,7 @@ alumni:
   title: Lab Alumni
   bio:
     - title: S. Yasmin Manjegani
-      sub: Former Honours Studnet
+      sub: Former Honours Student
       image: /uploads/screen-shot-2020-05-22-at-9.03.35-am.png
       body: Yasmin finished her B.Sc (Honours) in Psychology under the supervision of
         Dr. Beshai. Her thesis examined social and cognitive predictors of
