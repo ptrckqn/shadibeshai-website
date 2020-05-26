@@ -53,6 +53,15 @@ current:
         help-seeking behaviours of minority groups. She hopes to use this
         research towards the development of more inclusive practices in clinical
         psychology.
+    - title: Shalaine (Shae) Sackman
+      sub: Research Volunteer
+      body: In their third year of pursuing a degree in philosophy and one in
+        psychology, Shae is the President of the Psychology Students Association
+        at the University of Regina. They are currently working on their
+        Philosophy honours thesis on Hume, personal identity and Dissociative
+        Identity Disorder while preparing to apply to Honours Psychology for
+        2021.
+      image: /uploads/sackman.png
 alumni:
   title: Lab Alumni
   bio:
