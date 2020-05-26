@@ -43,6 +43,16 @@ current:
         exploring barriers to mental health service use and group therapy. When
         not in the lab, she enjoys roller skating and scrapbooking
       image: /uploads/nicole-delrosario.jpg
+    - title: Saba Salimuddin
+      sub: Master's Student (Clinical Psychology)
+      image: /uploads/photo.jpeg
+      body: Saba graduated from Heriot-Watt University in Dubai with a B.Sc. (Hons) in
+        Psychology with Management, and will be starting her first year as
+        master’s student in the Clinical Psychology program. Her research
+        interests include the implications of culture on the mental health and
+        help-seeking behaviours of minority groups. She hopes to use this
+        research towards the development of more inclusive practices in clinical
+        psychology.
 alumni:
   title: Lab Alumni
   bio:
