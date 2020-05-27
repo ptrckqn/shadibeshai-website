@@ -62,6 +62,18 @@ current:
         Identity Disorder while preparing to apply to Honours Psychology for
         2021.
       image: /uploads/sackman.png
+    - title: Anthony L Elsom
+      sub: "Research Coordinator "
+      body: "Anthony completed his B.A (Honours) in Psychology at the University of
+        Regina. His thesis focused on determining the correlates of suicide
+        ideation for Indigenous Peoples in Canada. He currently serves as the
+        research coordinator for the Depression, Cognition & Culture Lab (DCC)
+        under the supervision of Dr. Beshai. He plans on completing graduate
+        studies in Clinical Psychology with a focus on modifying or adapting
+        Short-Term Psychodynamic Psychotherapy (STPP) or Cognitive Behaviour
+        Therapy (CTB) to meet the needs of minority groups such as the
+        Indigenous Peoples of Canada. "
+      image: /uploads/anthony-image.jpg
 alumni:
   title: Lab Alumni
   bio:
