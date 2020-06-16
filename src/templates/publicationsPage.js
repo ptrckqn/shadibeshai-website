@@ -13,7 +13,7 @@ const publicationsPage = ({ data }) => {
       <Section>
         <h2>{journal.title}</h2>
         {journal.data.map(({ title, file }) => (
-          <JournalFile url={`/uploalds/${file.relativePath}`}>
+          <JournalFile url={`/uploads/${file.relativePath}`}>
             {title}
           </JournalFile>
         ))}
