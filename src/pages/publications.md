@@ -144,6 +144,10 @@ journal:
       file: /uploads/phq-9.docx
     - title: GAD-7
       file: /uploads/gad7.pdf
+    - title: PSS
+      file: /uploads/percieved-stress-scale.pdf
+    - title: COVID-19 Fear Scale
+      file: /uploads/fear-of-coronavirus-scale.pdf
 conference:
   title: Publications - Peer-Reviewed Conference Presentations
   data:
