@@ -3,6 +3,10 @@ template: publicationsPage
 journal:
   title: Publications - Peer-Reviewed Journal Articles
   data:
+    - title: "Shahid, F., Beshai, S., & Del Rosario, N. (2020). Fatalism and
+        Depressive Symptoms: Active and Passive Forms of Fatalism Differentially
+        Predict Depression. Journal of Religion and Health."
+      file: /uploads/shahid2020_article_fatalismanddepressivesymptomsa.pdf
     - title: "Chahar Mahali, S., Beshai, S., Feeney, J.R. et al. Associations of
         negative cognitions, emotional regulation, and depression symptoms
         across four continents: International support for the cognitive model of
@@ -136,6 +140,14 @@ journal:
         Relapse and Recurrence Prevention in Depression: Current Research and
         Future Prospects. Clinical Psychology Review, 31(8), 1349-1360."
       file: /uploads/Beshai-et-al-2011.pdf
+    - title: PHQ-9
+      file: /uploads/phq-9.docx
+    - title: GAD-7
+      file: /uploads/gad7.pdf
+    - title: PSS
+      file: /uploads/percieved-stress-scale.pdf
+    - title: COVID-19 Fear Scale
+      file: /uploads/fear-of-coronavirus-scale.pdf
 conference:
   title: Publications - Peer-Reviewed Conference Presentations
   data:
