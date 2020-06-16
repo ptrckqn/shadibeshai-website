@@ -140,6 +140,10 @@ journal:
         Relapse and Recurrence Prevention in Depression: Current Research and
         Future Prospects. Clinical Psychology Review, 31(8), 1349-1360."
       file: /uploads/Beshai-et-al-2011.pdf
+    - title: PHQ-9
+      file: /uploads/phq-9.docx
+    - title: GAD-7
+      file: /uploads/gad7.pdf
 conference:
   title: Publications - Peer-Reviewed Conference Presentations
   data:
