@@ -74,6 +74,20 @@ current:
         Identity Disorder while preparing to apply to Honours Psychology for
         2021.
       image: /uploads/sackman.png
+    - title: Sarah Nakonechny
+      sub: Research Volunteer
+      body: Sarah is a third-year Undergraduate student currently working on a degree
+        in both Psychology and Philosophy. Sarah plans to apply to the Honour’s
+        Psychology program to begin in the 2021 Fall semester. Her primary
+        research interests are in the areas of Developmental and Forensic
+        Psychology. Along with her research Sarah is also the Executive
+        Administrator for the Psychology Student Association where she is
+        working to develop a study group program for the Psychology Department.
+        Sarah is also assisting with the development of a peer mentorship
+        program, continues to update the project website and document group
+        procedures. As a DCC Lab volunteer, Sarah is assisting in the deployment
+        of the online mindfulness intervention for envy.
+      image: /uploads/picture1.png
 alumni:
   title: Lab Alumni
   bio:
