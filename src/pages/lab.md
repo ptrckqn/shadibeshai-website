@@ -43,18 +43,6 @@ current:
       body: "Christine is a Master’s student in the Clinical Psychology Program. Her
         Master’s thesis will look at an online mindfulness and self-compassion
         intervention to increase connectedness. "
-    - title: Nicole Del Rosario
-      sub: Master's Student (Clinical Psychology)
-      body: Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
-        Psychology. She is currently in her second year of the M.A. program in
-        Clinical Psychology at the University of Regina. Her Master's thesis
-        focuses on public perceptions of mindfulness-based programs, and whether
-        brief and specific psychoeducation may improve these perceptions. This
-        research is funded by a Joseph-Armand Bombardier Canada Graduate
-        Master's Scholarship. Additional research and clinical interests include
-        exploring barriers to mental health service use and group therapy. When
-        not in the lab, she enjoys roller skating and scrapbooking
-      image: /uploads/nicole-delrosario.jpg
     - title: Saba Salimuddin
       sub: Master's Student (Clinical Psychology)
       image: /uploads/photo.jpeg
@@ -65,6 +53,15 @@ current:
         help-seeking behaviours of minority groups. She hopes to use this
         research towards the development of more inclusive practices in clinical
         psychology.
+    - title: Ali Bukhari
+      sub: Honours Student
+      body: Ali is a fourth year B.A. (Hons.) Psychology student, currently completing
+        his honours thesis under the supervision of Dr. Beshai. His research
+        investigates the effect of an online mindfulness-based intervention
+        (Mind-OP) on mitigating symptoms of envy. More broadly, he is interested
+        in applying knowledge of mental health and llness prevention in a public
+        health setting, targeted towards indigenous and immigrant communities.
+      image: /uploads/renderedimage.jpeg
     - title: Shalaine (Shae) Sackman
       sub: Research Volunteer
       body: In their third year of pursuing a degree in philosophy and one in
@@ -91,6 +88,20 @@ current:
 alumni:
   title: Lab Alumni
   bio:
+    - title: Nicole Del Rosario
+      sub: Former Master's Student (Clinical Psychology)
+      image: /uploads/nicole-delrosario.jpg
+      body: "Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
+        Psychology. She has recently successfully defended her M.A. thesis in
+        Clinical Psychology at the University of Regina. Her Master's thesis
+        focused on public perceptions of mindfulness-based programs, and whether
+        brief and specific psychoeducation may improve these perceptions. This
+        research was funded by a Joseph-Armand Bombardier Canada Graduate
+        Master's Scholarship. Additional research and clinical interests include
+        exploring barriers to mental health service use and group therapy. When
+        not in the lab, she enjoys roller skating and scrapbooking. Nicole is
+        now completing her Ph.D. in Clinical Psychology at the University of
+        Manitoba. "
     - title: S. Yasmin Manjegani
       sub: Former Honours Student
       image: /uploads/screen-shot-2020-05-22-at-9.03.35-am.png
