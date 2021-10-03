@@ -151,6 +151,38 @@ journal:
 conference:
   title: Publications - Peer-Reviewed Conference Presentations
   data:
+    - body: Clinical Roundtable at the 51st Annual Association for Behavioral and
+        Cognitive Therapies Convention (ABCT), San Diego, CA, United States.
+      title: Using Evidence-Based Practices for Specific Religious and Non-religious
+        Populations.
+    - body: "Paper Presented at the 2nd Annual Indigenous Research Day Conference,
+        University of Regina, Regina, Canada. "
+      title: "Well-being among Indigenous Populations: Mindfulness and Self-Compassion
+        Protocols as Potential “Antidote” against Stress and Anxiety."
+    - body: "Presented at the Mood Disorders Centre’s Think Tank, University of
+        Exeter, Devon, UK. "
+      title: "Promotion and Marketing of Evidence-Based Psychological Treatments:
+        Public Perceptions of Cognitive Behavioural Therapy and Medication for
+        Depression.  "
+    - body: Poster accepted at the 78th Annual Canadian Psychological Association
+        Convention, Toronto, ON.
+      title: Explanatory Models of Depression Predict Perceptions of
+        Cognitive-Behavioural Therapy.
+    - body: Presentation accepted at the 78th Annual Canadian Psychological
+        Association Convention, Toronto, ON.
+      title: Subjective Relative Deprivation and Depressive Symptoms
+    - body: Poster accepted at the 78th Annual Canadian Psychological Association
+        Convention, Toronto, ON.
+      title: "Memory in Depression: Validation of the New Memory Task."
+    - body: "Poster presented at the 50th Annual Association for Behavioral and
+        Cognitive Therapies Convention, New York, NY, United States. "
+      title: Number of Previous Depression Episodes Associated With Reduced Trait
+        Mindfulness and Self-Compassion.
+    - body: Poster presented at the 8th Worlds Congress of the Behavioral and
+        Cognitive Therapies, Melbourne, Australia.
+      title: "Depression Chronicity, Personality, and Hopelessness: Changes in the
+        Construct Network of Depression with the experience of Successive
+        Episodes."
     - title: "The Intersection of Attention and Memory in Depression: Validation of a
         New Attention-Memory Computerized Task"
       body: Poster presented at the 76th Annual Canadian Psychological Association
@@ -160,15 +192,15 @@ conference:
       body: Poster presented at the 123rd American Psychological Annual Convention,
         Toronto, ON. — McDougall, K. A., Beshai, S., Wallace, L., Waldmann, K.,
         & Stea, J. N. (2015).
+    - body: Poster presented at the 123rd American Psychological Annual Convention,
+        Toronto, ON.
+      title: "The Effects of Dysphoria on Attention and Memory: New Measure of
+        Simultaneous Processes in Cognition."
     - title: "Negative and Positive Self-Referent Cognitions in Depression: Validation
         of the Cognitive Theory among a Depressed Egyptian Sample"
       body: Poster presented at ABCT’s 48th Annual Convention, Philadelphia, PA. —
         Pereverseff, R., Beshai, S., Mastikhina, L., McDougall, K. A., & Dobson,
         K. S. (2015).
-    - title: Cross-Cultural Validation of Beck’s Cognitive Theory of Depression
-      body: Poster presented at the 75th Annual Canadian Psychological Association
-        Convention. Vancouver, BC. — Beshai, S., Dobson, K. S., & Adel, A.
-        (2014, November).
     - title: Cross-Cultural Validation of Beck’s Cognitive Theory of Depression
       body: Poster presented at the 75th Annual Canadian Psychological Association
         Convention. Vancouver, BC. — Beshai, S., Mastikhina, L. Dobson, K. S., &
