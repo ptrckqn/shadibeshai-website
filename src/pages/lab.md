@@ -85,6 +85,22 @@ current:
         procedures. As a DCC Lab volunteer, Sarah is assisting in the deployment
         of the online mindfulness intervention for envy.
       image: /uploads/picture1.png
+    - body: Jenna is finishing up her final year in her undergraduate degree. She is
+        currently an Honours Psychology student working on her thesis under the
+        supervision of Dr. Shadi Beshai. Her research is focused on narrowing
+        down the concept of mindfulness by defining the borderlines between
+        mindfulness and the two related terms, non-attachment and equanimity in
+        an effort to determine where each interconnect. Her research will also
+        be testing to see if these terms exhibit a correlation between the
+        symptoms of anxiety and depression. The results of her research project
+        will be useful in the process of developing an operational definition of
+        mindfulness. They will also be beneficial in indicating the
+        effectiveness of mindfulness meditation in reducing symptoms of anxiety
+        and depression. She is interested in continuing to do research on the
+        mental health effects of practicing mindfulness meditation.
+      sub: "Honours Student "
+      title: Jenna Maierhoffer
+      image: /uploads/jenna-maierhoffer.jpg
 alumni:
   title: Lab Alumni
   bio:
