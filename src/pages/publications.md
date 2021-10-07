@@ -151,35 +151,72 @@ journal:
 conference:
   title: Publications - Peer-Reviewed Conference Presentations
   data:
-    - body: Clinical Roundtable at the 51st Annual Association for Behavioral and
-        Cognitive Therapies Convention (ABCT), San Diego, CA, United States.
+    - title: "Gender differences in the mental health of Canadian police: The role of
+        stress and social support."
+      body: "Poster will be presented at the 10th Annual Canadian Institutes of
+        Military and Veteran Health Research Forum, Ottawa, Canada. — Angehrn,
+        A., Fletcher, J. A., Jones, A. N., Beshai, S., & Carleton, R. N. (2020,
+        February). "
+    - title: "Mino Ayaawin: A Panel Discussion on Indigenous Mental Health. "
+      body: "Presented in Open Minds Discussion, Royal Saskatchewan Museum: Regina,
+        Canada. — Beshai, S., Green, B., LaVallie, C., McNab, M. & Elder
+        McKenna, B. (2019, March). "
+    - title: Development and Validation of a Measure to Assess Cognitive Behavioural
+        Mindedness.
+      body: Presented in 29th International Conference in Applied Psychology,
+        Montreal, Canada. — Landry, C., & Beshai, S. (2018, June).
+    - title: "Cross-Cultural Examination of the Cognitive Theory of Depression among
+        Individuals of Chinese and Canadian Descent. "
+      body: "Presented in 29th International Conference in Applied Psychology,
+        Montreal, Canada. — Yu, M., & Beshai, S. (2018, June). "
+    - title: Mindfulness Buffers the Effects of Frequent Gambling Behavior on Problem
+        Gambling.
+      body: "Presented in the Alberta Gambling Research Institute Annual Convention,
+        Banff, Canada. — Wuth, A., Rafaie, N., Mishra, S., & Beshai, S. (2018,
+        April). "
+    - title: "Strategies for Providing Effective Training in CBT with Diverse
+        Populations. "
+      body: "Clinical Roundtable at the 51st Annual Association for Behavioral and
+        Cognitive Therapies Convention (ABCT), San Diego, CA, United States. —
+        Klieman, S., Muroff, J., Williams, M., Beshai, S., Shipherd, J., &
+        Chapman, K. (2017, November). "
+    - body: "Clinical Roundtable at the 51st Annual Association for Behavioral and
+        Cognitive Therapies Convention (ABCT), San Diego, CA, United States. —
+        Lack, C., Rosemarin, D., Beshai, S., Pearce, M., & Robb, H. (2017,
+        November). "
       title: Using Evidence-Based Practices for Specific Religious and Non-religious
         Populations.
     - body: "Paper Presented at the 2nd Annual Indigenous Research Day Conference,
-        University of Regina, Regina, Canada. "
+        University of Regina, Regina, Canada. —  Beshai, S., & Wolfe, W. L.
+        (2017, October). "
       title: "Well-being among Indigenous Populations: Mindfulness and Self-Compassion
         Protocols as Potential “Antidote” against Stress and Anxiety."
     - body: "Presented at the Mood Disorders Centre’s Think Tank, University of
-        Exeter, Devon, UK. "
+        Exeter, Devon, UK.  — Beshai, S., & Watson, L. (2017, September). "
       title: "Promotion and Marketing of Evidence-Based Psychological Treatments:
         Public Perceptions of Cognitive Behavioural Therapy and Medication for
         Depression.  "
-    - body: Poster accepted at the 78th Annual Canadian Psychological Association
-        Convention, Toronto, ON.
+    - body: "Poster accepted at the 78th Annual Canadian Psychological Association
+        Convention, Toronto, ON. — Beshai, S., Watson, W., & Meadows, T. J.
+        (2017, June). "
       title: Explanatory Models of Depression Predict Perceptions of
         Cognitive-Behavioural Therapy.
-    - body: Presentation accepted at the 78th Annual Canadian Psychological
-        Association Convention, Toronto, ON.
+    - body: "Presentation accepted at the 78th Annual Canadian Psychological
+        Association Convention, Toronto, ON. — Beshai, S. & Mishra, S. (2017,
+        June). "
       title: Subjective Relative Deprivation and Depressive Symptoms
-    - body: Poster accepted at the 78th Annual Canadian Psychological Association
-        Convention, Toronto, ON.
+    - body: "Poster accepted at the 78th Annual Canadian Psychological Association
+        Convention, Toronto, ON. — Shumay, L., Beshai, S., & Pereverseff, R.
+        (2017, June). "
       title: "Memory in Depression: Validation of the New Memory Task."
     - body: "Poster presented at the 50th Annual Association for Behavioral and
-        Cognitive Therapies Convention, New York, NY, United States. "
+        Cognitive Therapies Convention, New York, NY, United States. — Beshai,
+        S., & Parmar, P. (2016, November). "
       title: Number of Previous Depression Episodes Associated With Reduced Trait
         Mindfulness and Self-Compassion.
-    - body: Poster presented at the 8th Worlds Congress of the Behavioral and
-        Cognitive Therapies, Melbourne, Australia.
+    - body: "Poster presented at the 8th Worlds Congress of the Behavioral and
+        Cognitive Therapies, Melbourne, Australia. — Beshai, S., & Pereverseff,
+        R. (2016, June). "
       title: "Depression Chronicity, Personality, and Hopelessness: Changes in the
         Construct Network of Depression with the experience of Successive
         Episodes."
@@ -192,8 +229,9 @@ conference:
       body: Poster presented at the 123rd American Psychological Annual Convention,
         Toronto, ON. — McDougall, K. A., Beshai, S., Wallace, L., Waldmann, K.,
         & Stea, J. N. (2015).
-    - body: Poster presented at the 123rd American Psychological Annual Convention,
-        Toronto, ON.
+    - body: "Poster presented at the 123rd American Psychological Annual Convention,
+        Toronto, ON. — Pereverseff, R., Beshai, S., Mastikhina, L., McDougall,
+        K. A., & Dobson, K. S. (2015). "
       title: "The Effects of Dysphoria on Attention and Memory: New Measure of
         Simultaneous Processes in Cognition."
     - title: "Negative and Positive Self-Referent Cognitions in Depression: Validation
