@@ -3,6 +3,11 @@ template: publicationsPage
 journal:
   title: Publications - Peer-Reviewed Journal Articles
   data:
+    - title: "Watson, L. M., & Beshai, S. (2020). Causal explanations of depression on
+        perceptions of and likelihood to choose cognitive behavioural therapy
+        and antidepressant medications as depression treatments. Psychology and
+        Psychotherapy: Theory, Research and Practice."
+      file: /uploads/1-s2.0-S0005789419300024-main-2.pdf
     - title: "Shahid, F., Beshai, S., & Del Rosario, N. (2020). Fatalism and
         Depressive Symptoms: Active and Passive Forms of Fatalism Differentially
         Predict Depression. Journal of Religion and Health."
@@ -16,21 +21,22 @@ journal:
     - title: " Saghar Chahar Mahali, Shadi Beshai & Whitney L. Wolfe (2020): The
         associations of dispositional mindfulness, self-compassion, and
         reappraisal with symptoms of depression and anxiety among a sample of
-        Indigenous students in Canada, Journal of American College Health, DOI:
-        10.1080/07448481.2020.1711764"
+        Indigenous students in Canada, Journal of American College Health, 1-9.
+        DOI: 10.1080/07448481.2020.1711764"
       file: /uploads/chahar-mahali-et-al.-2020-ach.pdf
     - title: Beshai, S., Hammond, B. K., & Bjornson, S. E. (2019). Dispositional
         Mindfulness is Associated with Heart Rate Reactivity and Recovery in
-        Response to a Lab Stressor. Stress and Health.
+        Response to a Lab Stressor. Stress and Health, 36(1), 3–6.
       file: /uploads/Beshai-et-al.-Stress-Health-2019.pdf
     - title: "Huang, V., Yu, M., Carleton, R. N., & Beshai, S. (2019). Intolerance of
         uncertainty fuels depressive symptoms through rumination:
-        Cross-sectional and longitudinal studies. PloS one, 14(11)."
+        Cross-sectional and longitudinal studies. PloS one, 14(11), 0224865."
       file: /uploads/Huang-et-al-PLOS-2019.pdf
     - title: "Beshai, S., Watson, L. M., Meadows, T. J., & Soucy, J. N. (2019).
         Perceptions of Cognitive-Behavioral Therapy and Antidepressant
         Medication for Depression After Brief Psychoeducation: Examining Shifts
-        in Attitudes. Behavior Therapy."
+        in Attitudes. Behavior Therapy. 50(5), 851–863. Doi:
+        10.1016/j.beth.2019.01.001"
       file: /uploads/1-s2.0-S0005789419300024-main-2.pdf
     - title: "Mishra, S., Beshai, S., Wuth, A., & Refaie, N. (2019). Risk and
         protective factors in problem gambling: an examination of psychological
@@ -62,8 +68,8 @@ journal:
       file: /uploads/17.-Beshai-et-al.-2017-Plos.pdf
     - title: "Pereverseff, R., Beshai, S., & Dimova, M. (2017) First episode indices
         associated with lifetime chronicity of depression among formerly
-        depressed participants: an exploratory study. Journal of Mental Health.
-        DOI: 10.1080/09638237.2017.1322181"
+        depressed participants: an exploratory study. Journal of Mental Health,
+        1-7. DOI: 10.1080/09638237.2017.1322181"
       file: /uploads/Pereverseff-et-al.-2017-Accepted-Manuscript.pdf
     - title: "Beshai, S., Mishra, S., Meadows, T. J., Parmar, P., & Huang, V. (2017).
         Minding the gap: Subjective relative deprivation and depressive
