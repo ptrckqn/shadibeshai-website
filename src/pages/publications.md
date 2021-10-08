@@ -98,12 +98,13 @@ journal:
     - title: "Beshai, S., Wallace, L., McDougall, K., Waldmann, K., & Stea, J. N.
         (2016). Reduced Contact Cognitive-Behavioral Interventions for Adult
         Depression: A Review. Journal of Psychology: Interdisciplinary and
-        Applied, 150(2), 252-297."
+        Applied, 150(2), 252-297. doi: 10.1080/00223980.2015.1087376"
       file: /uploads/Reduced-Contact-Cognitive-Behavioral-Interventions-for-Adult-Depression-A-Review2.pdf
     - title: "Beshai, S., McAlphine, L., Weare, K., Kuyken, W. (2016). A
         Non-Randomised Feasibility Study Assessing the Efficacy of the .b
         Foundation Course: A Mindfulness Intervention to Reduce Stress and
-        Improve Well-Being for Teachers. Mindfulness, 7, 198-208."
+        Improve Well-Being for Teachers. Mindfulness, 7, 198-208. doi:
+        10.1007/s12671-015-0436-1"
       file: /uploads/Beshai-et-al.-2015-Mindfulness.pdf
     - title: "Kuyken, W., Beshai, S., Abel, A., Görg, N., Gower, P., McManus, F., . .
         . Padesky, C. A. (2016). Assessing Competence in Collaborative Case
