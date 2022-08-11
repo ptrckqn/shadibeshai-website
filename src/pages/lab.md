@@ -1,6 +1,6 @@
 ---
 template: labPage
-title: Lab - Depression, Cognition, & Culture
+title: Lab - Depression Cognition & Culture
 image: /uploads/DCCLogo.png
 current:
   title: Current Lab Personnel & Students
@@ -18,18 +18,19 @@ current:
         below) has been published in many highly esteemed, peer-reviewed
         journals (e.g., Clinical Psychology Review; Mindfulness; Behavior
         Therapy). "
-    - title: Anthony L Elsom
-      sub: "Research Coordinator "
-      body: "Anthony completed his B.A (Honours) in Psychology at the University of
-        Regina. His thesis focused on determining the correlates of suicide
-        ideation for Indigenous Peoples in Canada. He currently serves as the
-        research coordinator for the Depression, Cognition & Culture Lab (DCC)
-        under the supervision of Dr. Beshai. He plans on completing graduate
-        studies in Clinical Psychology with a focus on modifying or adapting
-        Short-Term Psychodynamic Psychotherapy (STPP) or Cognitive Behaviour
-        Therapy (CTB) to meet the needs of minority groups such as the
-        Indigenous Peoples of Canada. "
-      image: /uploads/anthony-image.jpg
+    - title: Fereshteh Mehrabi
+      sub: Postdoctoral Fellow
+      image: /uploads/img_0792.jpg
+      body: Fereshteh is a postdoctoral fellow at the University of Regina. She is
+        currently completing her Ph.D. degree in public health and health policy
+        at the University of Montreal. Her research has focused on the impact of
+        social isolation and loneliness on physical, mental, and cognitive
+        health outcomes, particularly among frail older adults, and how cohort
+        trends and social change affect later-life health profiles. She has
+        expertise in the quantitative analysis of longitudinal data, including
+        latent growth trajectories. As a postdoctoral fellow, she will be
+        involved in research focused on improving the mental well-being of
+        Indigenous communities through mindfulness-based interventions.
     - title: Mabel Yu
       sub: Doctoral Student (Clinical Psychology)
       image: /uploads/mabel-yu.png
@@ -53,57 +54,21 @@ current:
         help-seeking behaviours of minority groups. She hopes to use this
         research towards the development of more inclusive practices in clinical
         psychology.
-    - title: Ali Bukhari
-      sub: Honours Student
-      body: Ali is a fourth year B.A. (Hons.) Psychology student, currently completing
-        his honours thesis under the supervision of Dr. Beshai. His research
-        investigates the effect of an online mindfulness-based intervention
-        (Mind-OP) on mitigating symptoms of envy. More broadly, he is interested
-        in applying knowledge of mental health and llness prevention in a public
-        health setting, targeted towards indigenous and immigrant communities.
-      image: /uploads/renderedimage.jpeg
-    - title: Shalaine (Shae) Sackman
-      sub: Research Volunteer
-      body: In their third year of pursuing a degree in philosophy and one in
-        psychology, Shae is the President of the Psychology Students Association
-        at the University of Regina. They are currently working on their
-        Philosophy honours thesis on Hume, personal identity and Dissociative
-        Identity Disorder while preparing to apply to Honours Psychology for
-        2021.
-      image: /uploads/sackman.png
-    - title: Sarah Nakonechny
-      sub: Research Volunteer
-      body: Sarah is a third-year Undergraduate student currently working on a degree
-        in both Psychology and Philosophy. Sarah plans to apply to the Honour’s
-        Psychology program to begin in the 2021 Fall semester. Her primary
-        research interests are in the areas of Developmental and Forensic
-        Psychology. Along with her research Sarah is also the Executive
-        Administrator for the Psychology Student Association where she is
-        working to develop a study group program for the Psychology Department.
-        Sarah is also assisting with the development of a peer mentorship
-        program, continues to update the project website and document group
-        procedures. As a DCC Lab volunteer, Sarah is assisting in the deployment
-        of the online mindfulness intervention for envy.
-      image: /uploads/picture1.png
-    - body: Jenna is finishing up her final year in her undergraduate degree. She is
-        currently an Honours Psychology student working on her thesis under the
-        supervision of Dr. Shadi Beshai. Her research is focused on narrowing
-        down the concept of mindfulness by defining the borderlines between
-        mindfulness and the two related terms, non-attachment and equanimity in
-        an effort to determine where each interconnect. Her research will also
-        be testing to see if these terms exhibit a correlation between the
-        symptoms of anxiety and depression. The results of her research project
-        will be useful in the process of developing an operational definition of
-        mindfulness. They will also be beneficial in indicating the
-        effectiveness of mindfulness meditation in reducing symptoms of anxiety
-        and depression. She is interested in continuing to do research on the
-        mental health effects of practicing mindfulness meditation.
-      sub: "Honours Student "
-      title: Jenna Maierhoffer
-      image: /uploads/jenna-maierhoffer.jpg
 alumni:
   title: Lab Alumni
   bio:
+    - title: Anthony L Elsom
+      body: "Anthony completed his B.A (Honours) in Psychology at the University of
+        Regina. His thesis focused on determining the correlates of suicide
+        ideation for Indigenous Peoples in Canada. He served as the research
+        coordinator for the Depression, Cognition & Culture Lab (DCC) under the
+        supervision of Dr. Beshai (2019-2022). He is starting his Master's in
+        Clinical Psychology at the University of Manitoba, and his thesis will
+        focus on modifying or adapting evidence-based psychotherapies (e.g.,
+        CTB) to meet the needs of minority groups such as the Indigenous Peoples
+        of Canada. "
+      image: /uploads/anthony-image.jpg
+      sub: Research Coordinator (Former)
     - title: Nicole Del Rosario
       sub: Former Master's Student (Clinical Psychology)
       image: /uploads/nicole-delrosario.jpg
@@ -118,6 +83,43 @@ alumni:
         not in the lab, she enjoys roller skating and scrapbooking. Nicole is
         now completing her Ph.D. in Clinical Psychology at the University of
         Manitoba. "
+    - title: Jenna Maierhoffer
+      sub: Former Honours Student
+      image: /uploads/jenna-maierhoffer.jpg
+      body: Jenna completed her final year in Psychology in 2022, with an Honours in
+        Psychology under the supervision of Dr. Beshai. Her research was focused
+        on narrowing down the concept of mindfulness by defining the borderlines
+        between mindfulness and the two related terms, non-attachment and
+        equanimity in an effort to determine where each interconnect. Her
+        research will also be testing to see if these terms exhibit a
+        correlation between the symptoms of anxiety and depression. The results
+        of her research project will be useful in the process of developing an
+        operational definition of mindfulness. They will also be beneficial in
+        indicating the effectiveness of mindfulness meditation in reducing
+        symptoms of anxiety and depression. She is interested in continuing to
+        do research on the mental health effects of practicing mindfulness
+        meditation.
+    - title: Shalaine (Shae) Sackman
+      sub: Research Assistant (Former)
+      image: /uploads/sackman.png
+      body: In their fourth year of pursuing a degree in philosophy and one in
+        psychology, Shae is the former President of the Psychology Students
+        Association at the University of Regina. They completed a Philosophy
+        honours thesis on Hume, personal identity and Dissociative Identity
+        Disorder while also completing an Honours in Psychology in 2021-2022.
+    - title: Sarah Nakonechny
+      sub: Research Assistant (Former)
+      body: Sarah is a fourth-year Undergraduate student working on a degree in both
+        Psychology and Philosophy. Sarah is completing the Honour’s Psychology
+        program to begin in the 2022 Fall semester.
+      image: /uploads/picture1.png
+    - title: Ali Bukhari
+      sub: Former Honours Student
+      image: /uploads/renderedimage.jpeg
+      body: "Ali completed his honours thesis under the supervision of Dr. Beshai
+        (2020-2021). His research investigated the effect of an online
+        mindfulness-based intervention (Mind-OP) on mitigating symptoms of envy.
+        He is currently completing a Master's in Public Health. "
     - title: S. Yasmin Manjegani
       sub: Former Honours Student
       image: /uploads/screen-shot-2020-05-22-at-9.03.35-am.png
