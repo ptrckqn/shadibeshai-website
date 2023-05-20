@@ -54,9 +54,34 @@ current:
         help-seeking behaviours of minority groups. She hopes to use this
         research towards the development of more inclusive practices in clinical
         psychology.
+    - title: Matea Gerbeza
+      sub: Lab Coordinator
+      body: Matea completed her Honours (2022-23) under Dr. Beshai's supervision. She
+        is now Depression Cognition and Culture Lab Coordinator. For her
+        honours, Matea examined the associations between dispositional
+        mindfulness and components of mental health literacy, specifically
+        psychological distress recognition and mental help-seeking attitudes.
+        She is graduating (B.A.) in psychology in the Spring of 2023 with High
+        Honours. Matea hopes to continue her training in the graduate program in
+        clinical psychology, with a specific interest in adolescent eating
+        disorders and children's anxiety. In the meantime, you can find her
+        playing with her dog, Lupin, and cat, Finnick.
+      image: /uploads/25fe5783-0f11-40e7-9060-5d42067a6b71.jpg
 alumni:
   title: Lab Alumni
   bio:
+    - title: Sarah Gulash
+      sub: Former Honours Student
+      body: "Sarah Gulash (she/her) completed her BSc Honours degree in psychology
+        under the supervision of Dr. Beshai. Her research focused on perceptions
+        of mindfulness-based interventions (MBIs) and she examined whether
+        various personality, demographic, and clinical factors predict these
+        perceptions. This research will help identify whether an individual is
+        likely to perceive MBIs favourably based on their dispositions. This
+        will lead to future research on the relationship between MBI perceptions
+        and the outcomes or success of MBIs. She is hoping to pursue graduate
+        studies in clinical psychology. "
+      image: /uploads/sarah-s-photo-.jpeg
     - title: Anthony L Elsom
       body: "Anthony completed his B.A (Honours) in Psychology at the University of
         Regina. His thesis focused on determining the correlates of suicide
@@ -99,20 +124,6 @@ alumni:
         symptoms of anxiety and depression. She is interested in continuing to
         do research on the mental health effects of practicing mindfulness
         meditation.
-    - title: Shalaine (Shae) Sackman
-      sub: Research Assistant (Former)
-      image: /uploads/sackman.png
-      body: In their fourth year of pursuing a degree in philosophy and one in
-        psychology, Shae is the former President of the Psychology Students
-        Association at the University of Regina. They completed a Philosophy
-        honours thesis on Hume, personal identity and Dissociative Identity
-        Disorder while also completing an Honours in Psychology in 2021-2022.
-    - title: Sarah Nakonechny
-      sub: Research Assistant (Former)
-      body: Sarah is a fourth-year Undergraduate student working on a degree in both
-        Psychology and Philosophy. Sarah is completing the Honour’s Psychology
-        program to begin in the 2022 Fall semester.
-      image: /uploads/picture1.png
     - title: Ali Bukhari
       sub: Former Honours Student
       image: /uploads/renderedimage.jpeg
@@ -145,22 +156,4 @@ alumni:
       image: /uploads/adam-iskric.jpg
       body: Now completing Graduate Training in Clinical Psychology at Hofstra
         University in New York.
-    - title: Sarah Bjornson
-      sub: Former Honours Student
-      image: /uploads/untitled-3-.jpg
-      body: "I completed my honours thesis under Dr. Beshai’s supervision on the
-        relationship between dispositional self-compassion and physiological
-        responses to stress. My interests have shifted since completing
-        undergraduate studies; I am currently working as a Behaviour Technician
-        with children who have Autism Spectrum Disorder (ASD). I plan to
-        complete graduate studies in Clinical Developmental Psychology with a
-        focus on ASD. "
-    - title: Brooklyn Hammond
-      sub: Former Honours Student
-      image: /uploads/brooklyn-hammond.png
-      body: Brooklyn graduated with a BA in Honours Psychology in 2018 and is
-        currently working as a Job Coach for Ranch Ehrlo. She is enrolled in the
-        UofR’s Masters in Educational Psychology Program. Upon completing her
-        studies, she hopes to be a registered psychologist with the Saskatchewan
-        College of Psychologists
 ---
