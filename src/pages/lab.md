@@ -82,32 +82,6 @@ alumni:
         and the outcomes or success of MBIs. She is hoping to pursue graduate
         studies in clinical psychology. "
       image: /uploads/sarah-s-photo-.jpeg
-    - title: Anthony L Elsom
-      body: "Anthony completed his B.A (Honours) in Psychology at the University of
-        Regina. His thesis focused on determining the correlates of suicide
-        ideation for Indigenous Peoples in Canada. He served as the research
-        coordinator for the Depression, Cognition & Culture Lab (DCC) under the
-        supervision of Dr. Beshai (2019-2022). He is starting his Master's in
-        Clinical Psychology at the University of Manitoba, and his thesis will
-        focus on modifying or adapting evidence-based psychotherapies (e.g.,
-        CTB) to meet the needs of minority groups such as the Indigenous Peoples
-        of Canada. "
-      image: /uploads/anthony-image.jpg
-      sub: Research Coordinator (Former)
-    - title: Nicole Del Rosario
-      sub: Former Master's Student (Clinical Psychology)
-      image: /uploads/nicole-delrosario.jpg
-      body: "Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
-        Psychology. She has recently successfully defended her M.A. thesis in
-        Clinical Psychology at the University of Regina. Her Master's thesis
-        focused on public perceptions of mindfulness-based programs, and whether
-        brief and specific psychoeducation may improve these perceptions. This
-        research was funded by a Joseph-Armand Bombardier Canada Graduate
-        Master's Scholarship. Additional research and clinical interests include
-        exploring barriers to mental health service use and group therapy. When
-        not in the lab, she enjoys roller skating and scrapbooking. Nicole is
-        now completing her Ph.D. in Clinical Psychology at the University of
-        Manitoba. "
     - title: Jenna Maierhoffer
       sub: Former Honours Student
       image: /uploads/jenna-maierhoffer.jpg
@@ -124,6 +98,18 @@ alumni:
         symptoms of anxiety and depression. She is interested in continuing to
         do research on the mental health effects of practicing mindfulness
         meditation.
+    - title: Anthony L Elsom
+      body: "Anthony completed his B.A (Honours) in Psychology at the University of
+        Regina. His thesis focused on determining the correlates of suicide
+        ideation for Indigenous Peoples in Canada. He served as the research
+        coordinator for the Depression, Cognition & Culture Lab (DCC) under the
+        supervision of Dr. Beshai (2019-2022). He is starting his Master's in
+        Clinical Psychology at the University of Manitoba, and his thesis will
+        focus on modifying or adapting evidence-based psychotherapies (e.g.,
+        CTB) to meet the needs of minority groups such as the Indigenous Peoples
+        of Canada. "
+      image: /uploads/anthony-image.jpg
+      sub: Research Coordinator (Former)
     - title: Ali Bukhari
       sub: Former Honours Student
       image: /uploads/renderedimage.jpeg
@@ -131,6 +117,20 @@ alumni:
         (2020-2021). His research investigated the effect of an online
         mindfulness-based intervention (Mind-OP) on mitigating symptoms of envy.
         He is currently completing a Master's in Public Health. "
+    - title: Nicole Del Rosario
+      sub: Former Master's Student (Clinical Psychology)
+      image: /uploads/nicole-delrosario.jpg
+      body: "Nicole graduated from the University of Winnipeg with her B.A. (Hons.) in
+        Psychology. She has recently successfully defended her M.A. thesis in
+        Clinical Psychology at the University of Regina. Her Master's thesis
+        focused on public perceptions of mindfulness-based programs, and whether
+        brief and specific psychoeducation may improve these perceptions. This
+        research was funded by a Joseph-Armand Bombardier Canada Graduate
+        Master's Scholarship. Additional research and clinical interests include
+        exploring barriers to mental health service use and group therapy. When
+        not in the lab, she enjoys roller skating and scrapbooking. Nicole is
+        now completing her Ph.D. in Clinical Psychology at the University of
+        Manitoba. "
     - title: S. Yasmin Manjegani
       sub: Former Honours Student
       image: /uploads/screen-shot-2020-05-22-at-9.03.35-am.png
