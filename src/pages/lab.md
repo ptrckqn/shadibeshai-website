@@ -31,6 +31,19 @@ current:
         latent growth trajectories. As a postdoctoral fellow, she will be
         involved in research focused on improving the mental well-being of
         Indigenous communities through mindfulness-based interventions.
+    - title: Matea Gerbeza
+      sub: Lab Coordinator
+      body: Matea completed her Honours (2022-23) under Dr. Beshai's supervision. She
+        is now Depression Cognition and Culture Lab Coordinator. For her
+        honours, Matea examined the associations between dispositional
+        mindfulness and components of mental health literacy, specifically
+        psychological distress recognition and mental help-seeking attitudes.
+        She is graduating (B.A.) in psychology in the Spring of 2023 with High
+        Honours. Matea hopes to continue her training in the graduate program in
+        clinical psychology, with a specific interest in adolescent eating
+        disorders and children's anxiety. In the meantime, you can find her
+        playing with her dog, Lupin, and cat, Finnick.
+      image: /uploads/25fe5783-0f11-40e7-9060-5d42067a6b71.jpg
     - title: Mabel Yu
       sub: Doctoral Student (Clinical Psychology)
       image: /uploads/mabel-yu.png
@@ -54,19 +67,6 @@ current:
         help-seeking behaviours of minority groups. She hopes to use this
         research towards the development of more inclusive practices in clinical
         psychology.
-    - title: Matea Gerbeza
-      sub: Lab Coordinator
-      body: Matea completed her Honours (2022-23) under Dr. Beshai's supervision. She
-        is now Depression Cognition and Culture Lab Coordinator. For her
-        honours, Matea examined the associations between dispositional
-        mindfulness and components of mental health literacy, specifically
-        psychological distress recognition and mental help-seeking attitudes.
-        She is graduating (B.A.) in psychology in the Spring of 2023 with High
-        Honours. Matea hopes to continue her training in the graduate program in
-        clinical psychology, with a specific interest in adolescent eating
-        disorders and children's anxiety. In the meantime, you can find her
-        playing with her dog, Lupin, and cat, Finnick.
-      image: /uploads/25fe5783-0f11-40e7-9060-5d42067a6b71.jpg
 alumni:
   title: Lab Alumni
   bio:
