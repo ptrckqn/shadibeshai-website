@@ -1,7 +1,7 @@
 ---
 template: labPage
 title: Lab - Depression Cognition & Culture
-image: /uploads/DCCLogo.png
+image: /uploads/DCCLogo.jpg
 current:
   title: Current Lab Personnel & Students
   bio:
@@ -133,7 +133,7 @@ alumni:
         Manitoba. "
     - title: S. Yasmin Manjegani
       sub: Former Honours Student
-      image: /uploads/screen-shot-2020-05-22-at-9.03.35-am.png
+      image: /uploads/screen-shot-2020-05-22-at-9.03.35-am.jpg
       body: Yasmin finished her B.Sc (Honours) in Psychology under the supervision of
         Dr. Beshai. Her thesis examined social and cognitive predictors of
         cognitive restructuring (CR) in relation to Cognitive Behavioural
