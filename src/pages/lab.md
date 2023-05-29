@@ -46,7 +46,7 @@ current:
       image: /uploads/25fe5783-0f11-40e7-9060-5d42067a6b71.jpg
     - title: Mabel Yu
       sub: Doctoral Student (Clinical Psychology)
-      image: /uploads/mabel-yu.png
+      image: /uploads/mabel-yu.jpg
       body: Mabel  is a Doctoral student in the Clinical Psychology Program,
         University of Regina. Mabel's Doctoral Thesis is focused on a randomized
         trial examining the effects of a self-compassion intervention to protect
