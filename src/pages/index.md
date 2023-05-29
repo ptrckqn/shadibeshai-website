@@ -1,6 +1,6 @@
 ---
 template: indexPage
-heroImage: /uploads/shadi-new-cropped.png
+heroImage: /uploads/shadi-new-cropped.jpg
 about:
   title: About me
   data:
