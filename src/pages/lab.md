@@ -38,18 +38,23 @@ current:
         University of Regina. Mabel's Doctoral Thesis is focused on a randomized
         trial examining the effects of a self-compassion intervention to protect
         from future depression episodes among people with recurrent depression.
-    - title: Christine Bueno
-      sub: Master’s Student (Clinical Psychology)
-      image: /uploads/christine-bueno.jpg
-      body: "Christine is a Master’s student in the Clinical Psychology Program. Her
-        Master’s thesis will look at an online mindfulness and self-compassion
-        intervention to increase connectedness. "
     - title: Saba Salimuddin
       sub: Doctoral Student (Clinical Psychology)
       image: /uploads/saba-2023.jpg
       body: "Saba is a doctoral student in the Clinical Psychology program. Her
         research is focused on treatment promotion through improved mental
         health literacy, and brief and scalable interventions. "
+    - title: "Alexa Danyluk "
+      sub: Master’s Student (Clinical Psychology)
+      image: /uploads/alexa-danyluk-headshot.jpg
+      body: Alexa (she/her) is a Master’s student in University of Regina’s Clinical
+        Psychology Program. She is interested in exploring how cognitive and
+        behavioural coping strategies can offset social and psychological
+        vulnerabilities and identifying factors that promote adaptive coping.
+        For her Master’s thesis, she plans to examine how dispositional
+        mindfulness interacts with coping behaviour to impact mental health
+        outcomes. In her free time, Alexa enjoys baking, reading, and going for
+        walks.
 alumni:
   title: Lab Alumni
   bio:
@@ -64,6 +69,12 @@ alumni:
         mindfulness-based intervention to improve the mental well-being of
         Indigenous students.
       image: /uploads/img_0792.jpg
+    - sub: Master’s Student (2020-2023)
+      title: Christine Bueno
+      body: "Christine completed her Master’s in the Clinical Psychology Program. Her
+        Master’s thesis examined the effects of an augmented online mindfulness
+        and self-compassion intervention to increase connectedness. "
+      image: /uploads/christine-bueno.jpg
     - title: Sarah Gulash
       sub: Former Honours Student
       body: "Sarah Gulash (she/her) completed her BSc Honours degree in psychology
