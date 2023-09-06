@@ -45,28 +45,11 @@ current:
         Master’s thesis will look at an online mindfulness and self-compassion
         intervention to increase connectedness. "
     - title: Saba Salimuddin
-      sub: Master's Student (Clinical Psychology)
-      image: /uploads/photo.jpeg
-      body: Saba graduated from Heriot-Watt University in Dubai with a B.Sc. (Hons) in
-        Psychology with Management, and will be starting her first year as
-        master’s student in the Clinical Psychology program. Her research
-        interests include the implications of culture on the mental health and
-        help-seeking behaviours of minority groups. She hopes to use this
-        research towards the development of more inclusive practices in clinical
-        psychology.
-    - title: Fereshteh Mehrabi
-      sub: Postdoctoral Fellow
-      image: /uploads/img_0792.jpg
-      body: Fereshteh is a postdoctoral fellow at the University of Regina. She is
-        currently completing her Ph.D. degree in public health and health policy
-        at the University of Montreal. Her research has focused on the impact of
-        social isolation and loneliness on physical, mental, and cognitive
-        health outcomes, particularly among frail older adults, and how cohort
-        trends and social change affect later-life health profiles. She has
-        expertise in the quantitative analysis of longitudinal data, including
-        latent growth trajectories. As a postdoctoral fellow, she will be
-        involved in research focused on improving the mental well-being of
-        Indigenous communities through mindfulness-based interventions.
+      sub: Doctoral Student (Clinical Psychology)
+      image: /uploads/saba-2023.jpg
+      body: "Saba is a doctoral student in the Clinical Psychology program. Her
+        research is focused on treatment promotion through improved mental
+        health literacy, and brief and scalable interventions. "
 alumni:
   title: Lab Alumni
   bio:
