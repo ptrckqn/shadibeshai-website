@@ -55,6 +55,20 @@ current:
         mindfulness interacts with coping behaviour to impact mental health
         outcomes. In her free time, Alexa enjoys baking, reading, and going for
         walks.
+    - title: Jenna Kazeil
+      sub: Honours Student (2023-2024)
+      image: /uploads/jenna-kazeil-s-lab-feature-photo-option-2.jpg
+      body: "Jenna is currently completing her Undergraduate Psychology Honours
+        Thesis. For  Jenna is examining the occurrence of method effects in the
+        Short Version of the Five Fact Mindfulness Questionnaire (FFMQ-SF).
+        Prior to completing her B.A. in Psychology, Jenna obtained a Bachelor of
+        Animal Bioscience degree from the College of Agriculture and
+        Bioresources at the University of Saskatchewan and further went on to
+        obtain a Certificate in Criminology and Addictions from the College of
+        Arts and Science also at the University of Saskatchewan. After
+        graduating with a B.A. in Psychology in Spring of 2024, Jenna hopes to
+        continue her education and training in Clinical Psychology, with a
+        particular interest in psychopathologies of children and youth. "
 alumni:
   title: Lab Alumni
   bio:
