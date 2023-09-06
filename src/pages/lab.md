@@ -18,19 +18,6 @@ current:
         below) has been published in many highly esteemed, peer-reviewed
         journals (e.g., Clinical Psychology Review; Mindfulness; Behavior
         Therapy). "
-    - title: Fereshteh Mehrabi
-      sub: Postdoctoral Fellow
-      image: /uploads/img_0792.jpg
-      body: Fereshteh is a postdoctoral fellow at the University of Regina. She is
-        currently completing her Ph.D. degree in public health and health policy
-        at the University of Montreal. Her research has focused on the impact of
-        social isolation and loneliness on physical, mental, and cognitive
-        health outcomes, particularly among frail older adults, and how cohort
-        trends and social change affect later-life health profiles. She has
-        expertise in the quantitative analysis of longitudinal data, including
-        latent growth trajectories. As a postdoctoral fellow, she will be
-        involved in research focused on improving the mental well-being of
-        Indigenous communities through mindfulness-based interventions.
     - title: Matea Gerbeza
       sub: Lab Coordinator
       body: Matea completed her Honours (2022-23) under Dr. Beshai's supervision. She
@@ -67,9 +54,33 @@ current:
         help-seeking behaviours of minority groups. She hopes to use this
         research towards the development of more inclusive practices in clinical
         psychology.
+    - title: Fereshteh Mehrabi
+      sub: Postdoctoral Fellow
+      image: /uploads/img_0792.jpg
+      body: Fereshteh is a postdoctoral fellow at the University of Regina. She is
+        currently completing her Ph.D. degree in public health and health policy
+        at the University of Montreal. Her research has focused on the impact of
+        social isolation and loneliness on physical, mental, and cognitive
+        health outcomes, particularly among frail older adults, and how cohort
+        trends and social change affect later-life health profiles. She has
+        expertise in the quantitative analysis of longitudinal data, including
+        latent growth trajectories. As a postdoctoral fellow, she will be
+        involved in research focused on improving the mental well-being of
+        Indigenous communities through mindfulness-based interventions.
 alumni:
   title: Lab Alumni
   bio:
+    - title: Dr. Fereshteh Mehrabi
+      sub: Postdoctoral Fellow (2022-2023).
+      body: Dr. Mehrabi Completed her Ph.D. degree in public health and health policy
+        at the University of Montreal. Her research has focused on the impact of
+        social isolation and loneliness on physical, mental, and cognitive
+        health outcomes, particularly among frail older adults, and how cohort
+        trends and social change affect later-life health profiles. As a
+        postdoctoral fellow, she was involved in creating a brief
+        mindfulness-based intervention to improve the mental well-being of
+        Indigenous students.
+      image: /uploads/img_0792.jpg
     - title: Sarah Gulash
       sub: Former Honours Student
       body: "Sarah Gulash (she/her) completed her BSc Honours degree in psychology
