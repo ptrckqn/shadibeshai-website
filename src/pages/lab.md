@@ -42,6 +42,16 @@ current:
         mindfulness interacts with coping behaviour to impact mental health
         outcomes. In her free time, Alexa enjoys baking, reading, and going for
         walks.
+    - title: Katelyn Lockinger
+      sub: Master's Student (Clinical Psychology)
+      image: /uploads/katelyn-photo.jpeg
+      body: Katelyn (she/her) is a Master’s student in the Clinical Psychology Program
+        at University of Regina. She received her B.A. Honours in Psychology
+        from the University of Saskatchewan in 2022. Katelyn's honours thesis
+        revolved around examining psychological well-being and dysmenorrhea
+        among women with ADHD. For her Master's thesis, she plans to examine the
+        moderating effect of dispositional mindfulness on the relationship
+        between adult ADHD symptoms and social functioning.
     - title: Matea Gerbeza
       sub: Lab Coordinator
       body: Matea completed her Honours (2022-23) under Dr. Beshai's supervision. She
@@ -69,18 +79,8 @@ current:
         graduating with a B.A. in Psychology in Spring of 2024, Jenna hopes to
         continue her education and training in Clinical Psychology, with a
         particular interest in psychopathologies of children and youth. "
-    - title: Katelyn Lockinger
-      sub: Master's Student (Clinical Psychology)
-      image: /uploads/katelyn-photo.jpeg
-      body: Katelyn (she/her) is a Master’s student in the Clinical Psychology Program
-        at University of Regina. She received her B.A. Honours in Psychology
-        from the University of Saskatchewan in 2022. Katelyn's honours thesis
-        revolved around examining psychological well-being and dysmenorrhea
-        among women with ADHD. For her Master's thesis, she plans to examine the
-        moderating effect of dispositional mindfulness on the relationship
-        between adult ADHD symptoms and social functioning.
-    - title: Christianne Camba (2023-2024)
-      sub: Honours Student
+    - title: "Christianne Camba "
+      sub: Honours Student (2023-2024)
       body: Christianne (she/her) is an Honours student under the supervision of Dr.
         Beshai. Her research is focused on the associations between
         dispositional mindfulness (DM) and self-compassion among individuals
