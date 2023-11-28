@@ -201,6 +201,28 @@ journal:
 conference:
   title: Publications - Peer-Reviewed Conference Presentations
   data:
+    - body: >
+        Conference session at the ABCT 57th Annual Convention, Hyatt Regency
+        Seattle Hotel, Seattle, WA. — Bueno, C., Dukuye, P., & Beshai, S. (2023,
+        November 18).
+      title: "Efficacy of an Adapted Self-Guided Mindfulness and Self-Compassion
+        Intervention (Mind-OP+) to Increase Connectedness: Randomized Controlled
+        Trial"
+    - body: "Poster Presentation presented at the 84th Annual Canadian Psychological
+        Association Convention, Toronto, ON, Canada. — Gulash, S., Beshai, S.,
+        Mehrabi, F., & Manjegani, Y. (2023, June 23). "
+      title: "The Impact of Rumination and Cognitive Distortions on the Ability to
+        Perform Cognitive Restructuring "
+    - body: Paper presented at the Canadian Psychological Association’s 84th Annual
+        National Convention, Sheraton Centre Toronto Hotel, Toronto, ON, Canada.
+        — Mehrabi, F., Beshai, S., & Iskric, A., (2023, June 23).
+      title: "Envy predicts depression symptoms over 6 months: A Random-Intercept
+        Cross-Lagged Panel Study"
+    - body: "Poster session presented at the CACBT Annual Conference, Halifax, Nova
+        Scotia, Canada. — Mehrabi, F., Desjarlais, S. M., Green, B., & Beshai,
+        S. (2023, May 5). "
+      title: Adaptation of Mindfulness-Based Interventions among Indigenous University
+        Students to Reduce Depression and Anxiety Symptoms
     - title: "Gender differences in the mental health of Canadian police: The role of
         stress and social support."
       body: "Poster will be presented at the 10th Annual Canadian Institutes of
