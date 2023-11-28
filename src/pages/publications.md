@@ -3,6 +3,26 @@ template: publicationsPage
 journal:
   title: Publications - Peer-Reviewed Journal Articles
   data:
+    - file: /uploads/feeney-et-al-2023.pdf
+      title: "Feeney, J. R., Goffin, R. D., Kemp, C., Beshai, S., & Klammer, J. D.
+        (2023). Evaluation of warning strategies to reduce faking during
+        military recruitment. Military Psychology, 35(5), 399-415. "
+    - file: /uploads/salimuddin-et-al.-2023.pdf
+      title: "Salimuddin, S., Beshai, S., Iskric, A., & Watson, L. (2023). Framing
+        effects of cognitive behavioural therapy for depression on perceptions
+        of believability, acceptability, and credibility. International Journal
+        of Environmental Research and Public Health, 20(14), 6330, 1-16. "
+    - file: /uploads/beshai-et-al-2023.pdf
+      title: Beshai, S., Desjarlais, S. M., & Green, B. (2023). Perspectives of
+        Indigenous university students in Canada on mindfulness-based
+        interventions and their adaptation to reduce depression and anxiety
+        symptoms. Mindfulness, 14, 538–553
+    - file: /uploads/carleton-et-al.-2022.pdf
+      title: Carleton, R. N., McCarron, M., Krätzig, G. P., Sauer-Zavala, S., Neary,
+        J. P., Lix, L. M., Beshai, S., & Asmundson, G. J. (2022). Assessing the
+        impact of the Royal Canadian Mounted Police (RCMP) protocol and
+        Emotional Resilience Skills Training (ERST) among diverse public safety
+        personnel. BMC psychology, 10(1), 1-14
     - file: /uploads/del-roasrio-and-beshai-2022.pdf
       title: "Del Rosario, N., & Beshai, S. (2022). Do you mind? Examining the impact
         of psychoeducation specificity on perceptions of mindfulness-based
