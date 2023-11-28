@@ -3,6 +3,11 @@ template: publicationsPage
 journal:
   title: Publications - Peer-Reviewed Journal Articles
   data:
+    - file: /uploads/del-roasrio-and-beshai-2022.pdf
+      title: "Del Rosario, N., & Beshai, S. (2022). Do you mind? Examining the impact
+        of psychoeducation specificity on perceptions of mindfulness-based
+        program. International Journal of Environmental Research and Public
+        Health, 19(15), 9621, 1-13. "
     - file: /uploads/beshai-et-al.-2022.pdf
       title: Beshai, S., Salimuddin, S., Refaie, N., & Maierhoffer, J. (2022).
         Dispositional mindfulness and self-compassion buffer the effects of
