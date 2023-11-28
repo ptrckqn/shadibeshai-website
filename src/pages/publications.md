@@ -3,6 +3,12 @@ template: publicationsPage
 journal:
   title: Publications - Peer-Reviewed Journal Articles
   data:
+    - file: /uploads/beshai-et-al.-2020-examining-the-effectiveness-of-an-online-program-t.pdf
+      title: "11.\tBeshai, S., Bueno, C., Yu, M., Feeney, J.R., & Pitariu, A. (2020).
+        Examining the efficacy of an online program to cultivate mindfulness and
+        self-compassion skills (Mind-OP): Randomized controlled trial on
+        Amazon’s Mechanical Turk. Behaviour Research and Therapy, 134, 103724,
+        1-12. "
     - title: "Watson, L. M., & Beshai, S. (2020). Causal explanations of depression on
         perceptions of and likelihood to choose cognitive behavioural therapy
         and antidepressant medications as depression treatments. Psychology and
