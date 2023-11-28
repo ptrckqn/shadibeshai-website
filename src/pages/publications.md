@@ -3,6 +3,13 @@ template: publicationsPage
 journal:
   title: Publications - Peer-Reviewed Journal Articles
   data:
+    - file: /uploads/lentz.pdf
+      title: "7.\tLentz, L., Smith-MacDonald, L., Malloy, D.C., Anderson, G.S.,
+        Beshai, S., Ricciardelli, R., Bremault-Phillips, S., & Carleton, R.N.
+        (2022). A qualitative analysis of the mental health training and
+        educational needs of firefighters, paramedics, and public safety
+        communicators in Canada. International Journal of Environmental Research
+        and Public Health, 19, 6972, 1-19. "
     - file: /uploads/beshai-et-al.-2020-examining-the-effectiveness-of-an-online-program-t.pdf
       title: "Beshai, S., Bueno, C., Yu, M., Feeney, J.R., & Pitariu, A. (2020).
         Examining the efficacy of an online program to cultivate mindfulness and
