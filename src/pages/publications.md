@@ -3,6 +3,11 @@ template: publicationsPage
 journal:
   title: Publications - Peer-Reviewed Journal Articles
   data:
+    - title: "Beshai, S., Bueno, C., & Salimuddin, S. (2023). Effects of a self-guided
+        online mindfulness and self-compassion program (Mind-OP) in reducing
+        negative automatic thoughts about self: Randomized active controlled
+        trial. Mindfulness. "
+      file: /uploads/effects_of_a_self-guided_online_mindfulness_and_se.pdf
     - file: /uploads/feeney-et-al-2023.pdf
       title: "Feeney, J. R., Goffin, R. D., Kemp, C., Beshai, S., & Klammer, J. D.
         (2023). Evaluation of warning strategies to reduce faking during
