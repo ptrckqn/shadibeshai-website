@@ -18,6 +18,19 @@ current:
         below) has been published in many highly esteemed, peer-reviewed
         journals (e.g., Clinical Psychology Review; Mindfulness; Behavior
         Therapy). "
+    - title: Matea Gerbeza
+      sub: Lab Coordinator
+      body: Matea completed her Honours (2022-23) under Dr. Beshai's supervision. She
+        is now Depression Cognition and Culture Lab Coordinator. For her
+        honours, Matea examined the associations between dispositional
+        mindfulness and components of mental health literacy, specifically
+        psychological distress recognition and mental help-seeking attitudes.
+        She is graduating (B.A.) in psychology in the Spring of 2023 with High
+        Honours. Matea hopes to continue her training in the graduate program in
+        clinical psychology, with a specific interest in adolescent eating
+        disorders and children's anxiety. In the meantime, you can find her
+        playing with her dog, Lupin, and cat, Finnick.
+      image: /uploads/25fe5783-0f11-40e7-9060-5d42067a6b71.jpg
     - title: Mabel Yu
       sub: Doctoral Student (Clinical Psychology)
       image: /uploads/mabel-yu.jpg
@@ -52,19 +65,6 @@ current:
         among women with ADHD. For her Master's thesis, she plans to examine the
         moderating effect of dispositional mindfulness on the relationship
         between adult ADHD symptoms and social functioning.
-    - title: Matea Gerbeza
-      sub: Lab Coordinator
-      body: Matea completed her Honours (2022-23) under Dr. Beshai's supervision. She
-        is now Depression Cognition and Culture Lab Coordinator. For her
-        honours, Matea examined the associations between dispositional
-        mindfulness and components of mental health literacy, specifically
-        psychological distress recognition and mental help-seeking attitudes.
-        She is graduating (B.A.) in psychology in the Spring of 2023 with High
-        Honours. Matea hopes to continue her training in the graduate program in
-        clinical psychology, with a specific interest in adolescent eating
-        disorders and children's anxiety. In the meantime, you can find her
-        playing with her dog, Lupin, and cat, Finnick.
-      image: /uploads/25fe5783-0f11-40e7-9060-5d42067a6b71.jpg
     - title: Jenna Kazeil
       sub: Honours Student (2023-2024)
       image: /uploads/jenna-kazeil-s-lab-feature-photo-option-2.jpg
@@ -88,6 +88,23 @@ current:
         Psychology in the Spring of 2024. In the future, she hopes to pursue a
         career in medicine.
       image: /uploads/christianne-photo-.jpg
+    - title: Nadine Mounir
+      sub: Internship Student (2024)
+      image: /uploads/nadine-lab-feature.jpg
+      body: Nadine completed her Honours (2022-23) under the supervision of Dr.
+        Natasha Gallant at the University of Regina, focusing on the
+        intersectional impacts of discrimination on the social and psychological
+        well-being of Muslim women in Saskatchewan. Currently, she is
+        undertaking an internship with Dr. Beshai for her final semester as part
+        of her Psychology Honours degree in the Depression Cognition Culture
+        lab. She will be graduating with her BA in Psychology with High Honours
+        in Spring 2024. For her internship, she is exploring the perceptions of
+        cognitive-behavioral therapy and anti-depressant medication for
+        depression. Her aspirations lie in clinical psychology, with a
+        particular emphasis on the interplay between culture and mental health,
+        especially among visible minorities living in North America. When she is
+        not at school or work, you can find her drawing, writing poetry, or with
+        her friends.
 alumni:
   title: Lab Alumni
   bio:
