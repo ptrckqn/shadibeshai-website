@@ -105,6 +105,20 @@ current:
         especially among visible minorities living in North America. When she is
         not at school or work, you can find her drawing, writing poetry, or with
         her friends.
+    - title: Zainab Tahir
+      sub: "Lab Volunteer "
+      image: /uploads/zainab-lab-feature.jpg
+      body: Zainab is currently a first-year undergraduate student pursuing her degree
+        in psychology. She is currently a lab volunteer, hoping to learn about
+        psychology, particularly the intersection of cognitive psychology and
+        cultural studies. In the future, she hopes to research the impact of
+        cultural upbringing on cognitive processes, such as decision-making and
+        problem-solving. She aspires to pursue graduate studies in clinical
+        psychology, with a specialization in cognitive psychology. She hopes to
+        contribute to her field by bridging gaps in mental health care
+        accessibility and understanding across diverse communities. In her free
+        time, she enjoys spending time with her friends and family or
+        volunteering.
 alumni:
   title: Lab Alumni
   bio:
