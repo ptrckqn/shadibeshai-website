@@ -31,13 +31,6 @@ current:
         disorders and children's anxiety. In the meantime, you can find her
         playing with her dog, Lupin, and cat, Finnick.
       image: /uploads/25fe5783-0f11-40e7-9060-5d42067a6b71.jpg
-    - title: Mabel Yu
-      sub: Doctoral Student (Clinical Psychology)
-      image: /uploads/mabel-yu.jpg
-      body: Mabel  is a Doctoral student in the Clinical Psychology Program,
-        University of Regina. Mabel's Doctoral Thesis is focused on a randomized
-        trial examining the effects of a self-compassion intervention to protect
-        from future depression episodes among people with recurrent depression.
     - title: Saba Salimuddin
       sub: Doctoral Student (Clinical Psychology)
       image: /uploads/saba-2023.jpg
@@ -122,6 +115,15 @@ current:
 alumni:
   title: Lab Alumni
   bio:
+    - title: Mabel Yu
+      sub: Doctoral Student (2018-2023)
+      body: "Mabel was a Doctoral student in the Clinical Psychology Program at the
+        University of Regina from 2018 to 2023. Mabel's Doctoral Thesis is
+        focused on a randomized trial examining the effects of a self-compassion
+        intervention to protect from future depression episodes among people
+        with recurrent depression. She successfully defended her dissertation in
+        the Fall of 2023. "
+      image: /uploads/mabel-yu.jpg
     - title: Dr. Fereshteh Mehrabi
       sub: Postdoctoral Fellow (2022-2023)
       body: Dr. Mehrabi Completed her Ph.D. degree in public health and health policy
