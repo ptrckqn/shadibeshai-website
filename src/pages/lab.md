@@ -112,6 +112,19 @@ current:
         accessibility and understanding across diverse communities. In her free
         time, she enjoys spending time with her friends and family or
         volunteering.
+    - title: Kelsy Dąbek
+      sub: Lab Volunteer
+      image: /uploads/kelsy-photo.jpeg
+      body: "Kelsy (she/her) completed her Honours degree in 2022-2023 under the
+        supervision of Dr. Donald Sharpe. She examined varying information
+        dissemination options to further the idea of effective ways to
+        communicate clinical information on neurodevelopmental disorders on
+        social media platforms, as a way to help curb misinformation online. She
+        is graduating in the Spring of 2024 with a B.A. (Hons) in Psychology and
+        hopes to further pursue education at the graduate level within the field
+        of psychology. Her research interests include the etiology and treatment
+        of neurodevelopmental disorders, as well as the intersection between
+        health and psychology. "
 alumni:
   title: Lab Alumni
   bio:
