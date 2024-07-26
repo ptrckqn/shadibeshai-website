@@ -5,10 +5,11 @@ about:
   title: About me
   data:
     - title: General
-      body: Dr. Shadi Beshai is an Associate Professor of Psychology at the University
-        of Regina, the Director of the Depression Cognition and Culture Lab, and
-        a registered Doctoral Clinical Psychologist (in Saskatchewan). Dr.
-        Beshai’s research is focused on improving access to and promotion of
+      body: Dr. Shadi Beshai is an Associate Professor in the Department of
+        Psychological Science at Kennesaw State University, the Director of the
+        Mindfulness Engagement and Cultural Adaptation (MECA) Lab. Dr. Beshai is
+        a registered Doctoral Clinical Psychologist in Saskatchewan, Canada. Dr.
+        Beshai’s research is focuses on improving access to and promotion of
         evidence-based psychological treatments for adult depression and
         anxiety. Specifically, Dr. Beshai has published several peer-reviewed
         scientific articles on the cultural adaptation of cognitive-behavioral
