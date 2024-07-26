@@ -1,9 +1,10 @@
 ---
 template: labPage
-title: Lab - Depression Cognition & Culture
+title: Lab - Depression Cognition & Culture (Former Lab 2015 to 2024)-
+  University of Regina
 image: /uploads/DCCLogo.jpg
 current:
-  title: Current Lab Personnel & Students
+  title: Lab Personnel & Students
   bio:
     - title: Dr. Shadi Beshai
       sub: Lab Director
