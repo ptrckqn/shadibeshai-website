@@ -17,7 +17,7 @@ about:
         on improving public literacy about such interventions and ways to
         disseminate them more widely. Dr. Beshai’s research is funded by the
         Canadian Institute of Health Research (CIHR), and the SaskatchewanHealth
-        Research Foundation (SHRF).
+        Research Foundation (SHRF) in Canada.
     - title: Education
       body: Dr. Beshai received a Bachelor's of Arts, Honours (Suma Cum Laude) from
         York University, Toronto, Canada. He completed his Master's of Science
